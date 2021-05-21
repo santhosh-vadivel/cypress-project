@@ -1,0 +1,3198 @@
+{
+  "bundle": {
+    "bundleBody": "",
+    "bundleTitle": "",
+    "containers": [
+        {
+            "id": "5f2d7a4b4330cb9d279a1664",
+            "text": "The 2021 Readers&#39; Choice Awards are live",
+            "template": "verso-ticker",
+            "link": {
+                "href": "https://www.cntraveler.com/vote",
+                "text": "Vote now"
+            },
+            "image": null
+        },
+        {
+            "dangerousDek": "",
+            "dangerousHed": "",
+            "items": [
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": null,
+                                    "dangerousTitle": null,
+                                    "name": "CNT Editors",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow CNT Editors on ",
+                                            "handle": "",
+                                            "network": ""
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "60909fbd5e7a9305842b114d",
+                    "dangerousHed": "Announcing the 2021 Hot List Winners",
+                    "dangerousDek": "For the 25th edition of the Hot List&#8212;<em>Conde Nast Traveler’s</em> picks of the year&#39;s top hotel and industry openings&#8212;these 69 winners represent the best of the best.",
+                    "date": "May 6, 2021",
+                    "image": {
+                        "altText": "Camp Sarika Amangiri Utah",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Joe Fletcher Photography/Courtesy Amangiri",
+                        "id": "6090a08b7dd7a18f7a9d43b2",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "4:3",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/6090a08b7dd7a18f7a9d43b2/4:3/w_768,c_limit/Amangiri_2020_50R0478_High%2520Res_28849.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/6090a08b7dd7a18f7a9d43b2/4:3/w_768,c_limit/Amangiri_2020_50R0478_High%2520Res_28849.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1024,
+                                "url": "https://media.cntraveler.com/photos/6090a08b7dd7a18f7a9d43b2/4:3/w_1024,c_limit/Amangiri_2020_50R0478_High%2520Res_28849.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "2560:1920",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/6090a08b7dd7a18f7a9d43b2/4:3/w_768,c_limit/Amangiri_2020_50R0478_High%2520Res_28849.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1024,
+                                    "url": "https://media.cntraveler.com/photos/6090a08b7dd7a18f7a9d43b2/4:3/w_1024,c_limit/Amangiri_2020_50R0478_High%2520Res_28849.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Hot List",
+                        "url": "/the-bests/hot-list"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "Announcing the 2021 Hot List Winners",
+                        "dek": "For the 25th edition of the Hot List—Conde Nast Traveler’s picks of the year's top hotel and industry openings—these 69 winners represent the best of the best."
+                    },
+                    "url": "/story/hot-list-2021-winners"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": null,
+                                    "dangerousTitle": null,
+                                    "name": "CNT Editors",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow CNT Editors on ",
+                                            "handle": "",
+                                            "network": ""
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "5c676cd45ac5fd121f437570",
+                    "dangerousHed": "The Complete Guide to Family Travel",
+                    "dangerousDek": "Vacation ideas, gear and toys, and true stories from very honest parents.",
+                    "date": "April 30, 2021",
+                    "image": {
+                        "altText": "Family Travel",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "5c646680e243ea4a765e8278",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "16:9",
+                                "width": 320,
+                                "url": "https://media.cntraveler.com/photos/5c646680e243ea4a765e8278/16:9/w_320,c_limit/Family%2520Travel_GettyImages-470634352.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "16:9",
+                                "width": 640,
+                                "url": "https://media.cntraveler.com/photos/5c646680e243ea4a765e8278/16:9/w_640,c_limit/Family%2520Travel_GettyImages-470634352.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "4000:2745",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "16:9",
+                                    "width": 320,
+                                    "url": "https://media.cntraveler.com/photos/5c646680e243ea4a765e8278/16:9/w_320,c_limit/Family%2520Travel_GettyImages-470634352.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "16:9",
+                                    "width": 640,
+                                    "url": "https://media.cntraveler.com/photos/5c646680e243ea4a765e8278/16:9/w_640,c_limit/Family%2520Travel_GettyImages-470634352.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Family Travel",
+                        "url": "/gear-and-guides/family-travel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "The Complete Guide to Family Travel",
+                        "dek": "Vacation ideas, gear and toys, and true stories from very honest parents."
+                    },
+                    "url": "/story/complete-guide-to-family-travel"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": null,
+                                    "dangerousTitle": null,
+                                    "name": "Mona Schwartz",
+                                    "socialMedia": [],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "604254e2ff9cba52f2a91876",
+                    "dangerousHed": "The Weekend Guide: Mexican Heritage, Microbreweries, and Marine Life in San Diego",
+                    "dangerousDek": "Don’t let all that sun and surf distract you from San Diego’s quieter wonders.",
+                    "date": "March 23, 2021",
+                    "image": {
+                        "altText": "Balboa Park in reflection San Diego",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "uschools/Getty",
+                        "id": "603fe137e5c1a354ad0d11ef",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "16:9",
+                                "width": 320,
+                                "url": "https://media.cntraveler.com/photos/603fe137e5c1a354ad0d11ef/16:9/w_320,c_limit/01-velo-san-diego-header-balboa.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "16:9",
+                                "width": 640,
+                                "url": "https://media.cntraveler.com/photos/603fe137e5c1a354ad0d11ef/16:9/w_640,c_limit/01-velo-san-diego-header-balboa.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "3000:2008",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "16:9",
+                                    "width": 320,
+                                    "url": "https://media.cntraveler.com/photos/603fe137e5c1a354ad0d11ef/16:9/w_320,c_limit/01-velo-san-diego-header-balboa.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "16:9",
+                                    "width": 640,
+                                    "url": "https://media.cntraveler.com/photos/603fe137e5c1a354ad0d11ef/16:9/w_640,c_limit/01-velo-san-diego-header-balboa.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "The Intel",
+                        "url": "/the-intel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "The Weekend Guide: Mexican Heritage, Microbreweries, and Marine Life in San Diego",
+                        "dek": "Don’t let all that sun and surf distract you from San Diego’s quieter wonders."
+                    },
+                    "url": "/story/weekend-guide-san-diego"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": null,
+                                    "dangerousTitle": null,
+                                    "name": "Scott Laird",
+                                    "socialMedia": [],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "60901f7a0a033bd816c4488f",
+                    "dangerousHed": "Cruising Is Returning This Year, Here&#39;s What to Know",
+                    "dangerousDek": "The CDC has announced it&#39;s working with cruise lines to resume sailing as early as this summer. Here&#39;s what that means for you.",
+                    "date": "May 4, 2021",
+                    "image": {
+                        "altText": "Cruising is Back Cruise Ships",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Fernando Gorge/Unsplash",
+                        "id": "608f41f6fff15401f8abddeb",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "16:9",
+                                "width": 320,
+                                "url": "https://media.cntraveler.com/photos/608f41f6fff15401f8abddeb/16:9/w_320,c_limit/Cruising%2520is%2520Back_fernando-jorge-rMaWin9-9Gk-unsplash.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "16:9",
+                                "width": 640,
+                                "url": "https://media.cntraveler.com/photos/608f41f6fff15401f8abddeb/16:9/w_640,c_limit/Cruising%2520is%2520Back_fernando-jorge-rMaWin9-9Gk-unsplash.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "3000:1805",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "16:9",
+                                    "width": 320,
+                                    "url": "https://media.cntraveler.com/photos/608f41f6fff15401f8abddeb/16:9/w_320,c_limit/Cruising%2520is%2520Back_fernando-jorge-rMaWin9-9Gk-unsplash.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "16:9",
+                                    "width": 640,
+                                    "url": "https://media.cntraveler.com/photos/608f41f6fff15401f8abddeb/16:9/w_640,c_limit/Cruising%2520is%2520Back_fernando-jorge-rMaWin9-9Gk-unsplash.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Cruise",
+                        "url": "/get-there/cruise"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "Cruising Is Returning This Year, Here's What to Know",
+                        "dek": "The CDC has announced it's working with cruise lines to resume sailing as early as this summer. Here's what that means for you."
+                    },
+                    "url": "/story/cruising-is-returning-this-year-heres-what-to-know"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Sarah Enelow-Snyder</a> is a freelance writer from Spicewood, Texas, based in Brooklyn, New York.",
+                                    "dangerousTitle": null,
+                                    "name": "Sarah Enelow-Snyder",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Sarah Enelow-Snyder on Instagram",
+                                            "handle": "http://www.instagram.com/sarahenelowsnyder",
+                                            "network": "instagram"
+                                        },
+                                        {
+                                            "label": "Follow Sarah Enelow-Snyder on Twitter",
+                                            "handle": "http://www.twitter.com/sarahenelow ",
+                                            "network": "twitter"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "604f7c14676d0f0ac6c7cfef",
+                    "dangerousHed": "For BIPOC Travelers, Heritage Trips Can Be Hard to Plan&#8212;These Companies Want to Change That",
+                    "dangerousDek": "Skewed DNA test results have long left travelers of color with more questions than answers, but a few determined operators are finding ways to work through it. ",
+                    "date": "April 21, 2021",
+                    "image": {
+                        "altText": "downtown Havana Cuba",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty ",
+                        "id": "60676e4063ce0a17d417ebf5",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "16:9",
+                                "width": 320,
+                                "url": "https://media.cntraveler.com/photos/60676e4063ce0a17d417ebf5/16:9/w_320,c_limit/GettyImages-898679830-2.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "16:9",
+                                "width": 640,
+                                "url": "https://media.cntraveler.com/photos/60676e4063ce0a17d417ebf5/16:9/w_640,c_limit/GettyImages-898679830-2.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "2500:1667",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "16:9",
+                                    "width": 320,
+                                    "url": "https://media.cntraveler.com/photos/60676e4063ce0a17d417ebf5/16:9/w_320,c_limit/GettyImages-898679830-2.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "16:9",
+                                    "width": 640,
+                                    "url": "https://media.cntraveler.com/photos/60676e4063ce0a17d417ebf5/16:9/w_640,c_limit/GettyImages-898679830-2.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "The Latest",
+                        "url": "/the-intel/the-latest"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "For BIPOC Travelers, Heritage Trips Can Be Hard to Plan—These Companies Want to Change That",
+                        "dek": "Skewed DNA test results have long left travelers of color with more questions than answers, but a few determined operators are finding ways to work through it."
+                    },
+                    "url": "/story/for-bipoc-travelers-heritage-trips-can-be-hard-to-plan-these-companies-want-to-change-that"
+                }
+            ],
+            "layout": "",
+            "template": "verso-features",
+            "shouldHideVideoDek": false
+        },
+        {
+            "template": "verso-related",
+            "dangerousHed": "Trending Stories",
+            "items": [
+                {
+                    "brand": "conde-nast-traveler",
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "name": "Shannon McMahon"
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "609d5afce4e19ba2620a1d41",
+                    "dangerousHed": "Heading to Mexico? These Are the COVID Restrictions in Place",
+                    "dangerousDek": "From Tulum to Oaxaca, here&#39;s what to expect if you&#39;re visiting Mexico, from pre-departure requirements to what&#39;s open on the ground.",
+                    "image": {
+                        "altText": "Mexico Restrictions Guide, Tulum Mayan Ruins",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 160,
+                                    "url": "https://media.cntraveler.com/photos/6086fc8b11601c3fd89adc74/1:1/w_160,c_limit/Mexico%20Restrictions%20Guide_GettyImages-499014209.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 320,
+                                    "url": "https://media.cntraveler.com/photos/6086fc8b11601c3fd89adc74/1:1/w_320,c_limit/Mexico%20Restrictions%20Guide_GettyImages-499014209.jpg"
+                                }
+                            ]
+                        },
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 160,
+                                "url": "https://media.cntraveler.com/photos/6086fc8b11601c3fd89adc74/1:1/w_160,c_limit/Mexico%20Restrictions%20Guide_GettyImages-499014209.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 320,
+                                "url": "https://media.cntraveler.com/photos/6086fc8b11601c3fd89adc74/1:1/w_320,c_limit/Mexico%20Restrictions%20Guide_GettyImages-499014209.jpg"
+                            }
+                        }
+                    },
+                    "rubric": {
+                        "name": "The Intel"
+                    },
+                    "signage": null,
+                    "url": "https://www.cntraveler.com/story/guide-to-mexicos-travel-restrictions#intcid=_conde-nast-traveler-verso-hp-trending_8dd5a16a-e8db-48d1-96d8-fda7c44f653a_popular4-1"
+                },
+                {
+                    "brand": "conde-nast-traveler",
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "name": "Diana Hubbell"
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "609ac1a26d3955cf21d8ac3b",
+                    "dangerousHed": "Singer Laura Mam Is on a Mission to Revive Cambodia’s Vibrant Music Scene",
+                    "dangerousDek": "A new era of Cambodian artists want to bring back the country&#39;s longstanding musical heritage.",
+                    "image": {
+                        "altText": "Laura Mam",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 160,
+                                    "url": "https://media.cntraveler.com/photos/609d86dafa9c7ebdfc0d541e/1:1/w_160,c_limit/Laura-Mam_GettyImages-1187727718.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 320,
+                                    "url": "https://media.cntraveler.com/photos/609d86dafa9c7ebdfc0d541e/1:1/w_320,c_limit/Laura-Mam_GettyImages-1187727718.jpg"
+                                }
+                            ]
+                        },
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 160,
+                                "url": "https://media.cntraveler.com/photos/609d86dafa9c7ebdfc0d541e/1:1/w_160,c_limit/Laura-Mam_GettyImages-1187727718.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 320,
+                                "url": "https://media.cntraveler.com/photos/609d86dafa9c7ebdfc0d541e/1:1/w_320,c_limit/Laura-Mam_GettyImages-1187727718.jpg"
+                            }
+                        }
+                    },
+                    "rubric": {
+                        "name": "Women Who Travel"
+                    },
+                    "signage": null,
+                    "url": "https://www.cntraveler.com/story/singer-laura-mam-is-on-a-mission-to-revive-cambodias-vibrant-music-scene#intcid=_conde-nast-traveler-verso-hp-trending_8dd5a16a-e8db-48d1-96d8-fda7c44f653a_popular4-1"
+                },
+                {
+                    "brand": "conde-nast-traveler",
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "name": "Shannon McMahon"
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "609ebcd8ba01da3e65cb6a7c",
+                    "dangerousHed": "What the CDC’s New Indoor Masking Guidance Means for Travelers",
+                    "dangerousDek": "We speak to experts about the new guidelines, and why travel might be less impacted than you think.",
+                    "image": {
+                        "altText": "Indoor Masking, Bathers at Asnieres, Georges Seurat, National Gallery",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 160,
+                                    "url": "https://media.cntraveler.com/photos/609e976b13475a76aa94252a/1:1/w_160,c_limit/Indoor%20Masking_GettyImages-1224652690.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 320,
+                                    "url": "https://media.cntraveler.com/photos/609e976b13475a76aa94252a/1:1/w_320,c_limit/Indoor%20Masking_GettyImages-1224652690.jpg"
+                                }
+                            ]
+                        },
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 160,
+                                "url": "https://media.cntraveler.com/photos/609e976b13475a76aa94252a/1:1/w_160,c_limit/Indoor%20Masking_GettyImages-1224652690.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 320,
+                                "url": "https://media.cntraveler.com/photos/609e976b13475a76aa94252a/1:1/w_320,c_limit/Indoor%20Masking_GettyImages-1224652690.jpg"
+                            }
+                        }
+                    },
+                    "rubric": {
+                        "name": "The Intel"
+                    },
+                    "signage": null,
+                    "url": "https://www.cntraveler.com/story/what-the-cdcs-new-indoor-masking-guidance-means-for-travelers#intcid=_conde-nast-traveler-verso-hp-trending_8dd5a16a-e8db-48d1-96d8-fda7c44f653a_popular4-1"
+                }
+            ]
+        },
+        {
+            "dangerousHed": "",
+            "items": [],
+            "template": "verso-native"
+        },
+        {
+            "dangerousDek": "",
+            "dangerousHed": "Inspiration",
+            "items": [
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": null,
+                                    "dangerousTitle": null,
+                                    "name": "CNT Editors",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow CNT Editors on ",
+                                            "handle": "",
+                                            "network": ""
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "gallery",
+                    "copilotID": "5ea8b47e846f1f00085a176c",
+                    "dangerousHed": "The Best New Hotels in the World: 2021 Hot List",
+                    "dangerousDek": "For the 25th edition of the Hot List&#8212;<em>Conde Nast Traveler’s</em> picks of the year&#39;s top hotel and industry openings&#8212;these 69 winners represent the best of the best.",
+                    "date": "May 6, 2021",
+                    "image": {
+                        "altText": "Zannier Hotels Bai San Ho",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Frederik Wissink for Zannier Hotels",
+                        "id": "608b844afff15401f8abdcc5",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/608b844afff15401f8abdcc5/1:1/w_768,c_limit/Zannier%2520Hotels%2520Ba%25CC%2583i%2520San%2520Ho%25CC%2582%2520-%2520Ba%25CC%2580%2520Hai%25202%2520-%2520%25C2%25A9%2520Frederik%2520Wissink%2520for%2520Zannier%2520Hotels.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/608b844afff15401f8abdcc5/4:3/w_1280,c_limit/Zannier%2520Hotels%2520Ba%25CC%2583i%2520San%2520Ho%25CC%2582%2520-%2520Ba%25CC%2580%2520Hai%25202%2520-%2520%25C2%25A9%2520Frederik%2520Wissink%2520for%2520Zannier%2520Hotels.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/608b844afff15401f8abdcc5/4:3/w_1600,c_limit/Zannier%2520Hotels%2520Ba%25CC%2583i%2520San%2520Ho%25CC%2582%2520-%2520Ba%25CC%2580%2520Hai%25202%2520-%2520%25C2%25A9%2520Frederik%2520Wissink%2520for%2520Zannier%2520Hotels.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "1731:1155",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/608b844afff15401f8abdcc5/1:1/w_768,c_limit/Zannier%2520Hotels%2520Ba%25CC%2583i%2520San%2520Ho%25CC%2582%2520-%2520Ba%25CC%2580%2520Hai%25202%2520-%2520%25C2%25A9%2520Frederik%2520Wissink%2520for%2520Zannier%2520Hotels.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/608b844afff15401f8abdcc5/4:3/w_1600,c_limit/Zannier%2520Hotels%2520Ba%25CC%2583i%2520San%2520Ho%25CC%2582%2520-%2520Ba%25CC%2580%2520Hai%25202%2520-%2520%25C2%25A9%2520Frederik%2520Wissink%2520for%2520Zannier%2520Hotels.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "itemsCount": {
+                        "count": 69,
+                        "itemType": "slide"
+                    },
+                    "rubric": {
+                        "name": "Hot List",
+                        "url": "/the-bests/hot-list"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "The Best New Hotels in the World: 2021 Hot List",
+                        "dek": "For the 25th edition of the Hot List—*Condé Nast Traveler’s* picks of the year's top hotel and industry openings—these 69 winners represent the best of the best."
+                    },
+                    "url": "/gallery/best-new-hotels-in-the-world"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "After covering entertainment and society in Manhattan for five years, Todd Plummer packed a bag, boarded a one-way flight to Bali, and never looked back. Today, he covers a wide range of topics inspired by travel, from city guides, to food and wine, and entertainment and design. His work has...",
+                                    "dangerousTitle": "Contributing Writer",
+                                    "name": "Todd Plummer",
+                                    "socialMedia": [],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "gallery",
+                    "copilotID": "606b4441c5daff308f945db3",
+                    "dangerousHed": "13 Hotels With Swanky Rooftop Pools ",
+                    "dangerousDek": "Why does swimming on a rooftop feel <em>so</em> much fancier?",
+                    "date": "April 7, 2021",
+                    "image": {
+                        "altText": "Hotel Fasano Rio de Janeiro rooftop pool",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Daniel Pinheiro/Courtesy Fasano",
+                        "id": "5787fb90a3f6784a6a6125d8",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/5787fb90a3f6784a6a6125d8/1:1/w_768,c_limit/Pool2Edited-HotelFasano-RiodeJaneiro-CourtesyHotel.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/5787fb90a3f6784a6a6125d8/4:3/w_1280,c_limit/Pool2Edited-HotelFasano-RiodeJaneiro-CourtesyHotel.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/5787fb90a3f6784a6a6125d8/4:3/w_1600,c_limit/Pool2Edited-HotelFasano-RiodeJaneiro-CourtesyHotel.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "2048:1536",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/5787fb90a3f6784a6a6125d8/1:1/w_768,c_limit/Pool2Edited-HotelFasano-RiodeJaneiro-CourtesyHotel.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/5787fb90a3f6784a6a6125d8/4:3/w_1600,c_limit/Pool2Edited-HotelFasano-RiodeJaneiro-CourtesyHotel.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "itemsCount": {
+                        "count": 13,
+                        "itemType": "slide"
+                    },
+                    "rubric": {
+                        "name": "Hotels and Resorts",
+                        "url": "/stay-here/hotels-and-resorts"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "13 Hotels With Swanky Rooftop Pools&nbsp;",
+                        "dek": "Why does swimming on a rooftop feel *so* much fancier?"
+                    },
+                    "url": "/gallery/our-favorite-hotels-with-rooftop-pools"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": null,
+                                    "dangerousTitle": "<a href=\"/undefined\">Regan Stephens</a>",
+                                    "name": "Regan Stephens",
+                                    "socialMedia": [],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "gallery",
+                    "copilotID": "607316eed1058698d13c31b9",
+                    "dangerousHed": "The Best Family Beach Vacations in the U.S.",
+                    "dangerousDek": "Searching closer to home for a coastal family getaway this year? From Puerto Rico to Wisconsin, Americans can get creative in their quest for sun and sand.",
+                    "date": "April 16, 2021",
+                    "image": {
+                        "altText": "Tides Inn in Irvington Virginia.",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Courtesy Tides Inn",
+                        "id": "60731e47ac52332b71f172b7",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/60731e47ac52332b71f172b7/1:1/w_768,c_limit/TIDES_INN_POOL_1.jpeg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/60731e47ac52332b71f172b7/4:3/w_1280,c_limit/TIDES_INN_POOL_1.jpeg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/60731e47ac52332b71f172b7/4:3/w_1600,c_limit/TIDES_INN_POOL_1.jpeg"
+                            }
+                        },
+                        "masterAspectRatio": "2500:1667",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/60731e47ac52332b71f172b7/1:1/w_768,c_limit/TIDES_INN_POOL_1.jpeg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/60731e47ac52332b71f172b7/4:3/w_1600,c_limit/TIDES_INN_POOL_1.jpeg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "itemsCount": {
+                        "count": 15,
+                        "itemType": "slide"
+                    },
+                    "rubric": {
+                        "name": "The Bests",
+                        "url": "/the-bests"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "The Best Family Beach Vacations in the U.S.",
+                        "dek": "From Puerto Rico to Wisconsin, there are plenty of places to enjoy the sun and sand stateside."
+                    },
+                    "url": "/gallery/best-family-beach-vacations"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Caitlin Morton</a> has been working at Condé Nast Traveler since July 2014. She enjoys baked goods, Ireland, orange nail polish, and words. One time she held the door open for Ian McKellen, which is as close to fame as she will ever get.",
+                                    "dangerousTitle": null,
+                                    "name": "Caitlin Morton",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Caitlin Morton on Twitter",
+                                            "handle": "https://twitter.com/CaitlinMorton23",
+                                            "network": "twitter"
+                                        },
+                                        {
+                                            "label": "Follow Caitlin Morton on Instagram",
+                                            "handle": "http://instagram.com/caitlinmorton23",
+                                            "network": "instagram"
+                                        },
+                                        {
+                                            "label": "Follow Caitlin Morton on Pinterest",
+                                            "handle": "http://www.pinterest.com/CaitlinMorton23/",
+                                            "network": "pinterest"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "gallery",
+                    "copilotID": "607d960e11601c3fd89ad868",
+                    "dangerousHed": "12 Best Places to Travel in June",
+                    "dangerousDek": "Summer has officially arrived.",
+                    "date": "April 28, 2021",
+                    "image": {
+                        "altText": "Image may contain Nature Outdoors Field Countryside Grassland Architecture Building Rural and Farm",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "56e09bb562c2faba1dda71e9",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/56e09bb562c2faba1dda71e9/1:1/w_768,c_limit/senanque-abbey-lavender-cr-getty.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/56e09bb562c2faba1dda71e9/4:3/w_1280,c_limit/senanque-abbey-lavender-cr-getty.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/56e09bb562c2faba1dda71e9/4:3/w_1600,c_limit/senanque-abbey-lavender-cr-getty.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "2048:1536",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/56e09bb562c2faba1dda71e9/1:1/w_768,c_limit/senanque-abbey-lavender-cr-getty.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/56e09bb562c2faba1dda71e9/4:3/w_1600,c_limit/senanque-abbey-lavender-cr-getty.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "itemsCount": {
+                        "count": 12,
+                        "itemType": "slide"
+                    },
+                    "rubric": {
+                        "name": "The Latest",
+                        "url": "/the-intel/the-latest"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "12 Best Places to Travel in June",
+                        "dek": "Summer has officially arrived."
+                    },
+                    "url": "/gallery/best-places-to-travel-june"
+                }
+            ],
+            "layout": "",
+            "template": "verso-features",
+            "shouldHideVideoDek": false
+        },
+        {
+            "template": "verso-mid-content-ad"
+        },
+        {
+            "dangerousDek": "",
+            "dangerousHed": "Destination Guides",
+            "items": [
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Ashlea Halpern</a> is a contributing editor at <em>Condé Nast Traveler</em> and cofounder of <a href=\"https://minnevangelist.com/\" target=\"_blank\">Minnevangelist</a>, a site dedicated to all things Minnesota. She&#39;s usually on the road six months a year and contributes regularly to <em>Bon Appétit, New York</em> Magazine, <em>AFAR,</em> <em>Airbnb</em>, <em>TIME, Midwest Living, Artful Living,</em> and <em>Minnesota Monthly.</em>...",
+                                    "dangerousTitle": "Contributing Editor",
+                                    "name": "Ashlea Halpern",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Ashlea Halpern on Twitter",
+                                            "handle": "https://twitter.com/ashleahalpern",
+                                            "network": "twitter"
+                                        },
+                                        {
+                                            "label": "Follow Ashlea Halpern on Instagram",
+                                            "handle": "http://instagram.com/ashleahalpern",
+                                            "network": "instagram"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "608678f6211142d4f98868fb",
+                    "dangerousHed": "Where to Eat, Stay, and Play in Minneapolis",
+                    "dangerousDek": "You won’t even mind the cold.",
+                    "date": "April 27, 2021",
+                    "image": {
+                        "altText": "Minneapolis",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Gian Lorenzo Ferretti Photography/Getty",
+                        "id": "60867c5011601c3fd89adaea",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/60867c5011601c3fd89adaea/1:1/w_768,c_limit/989949876"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/60867c5011601c3fd89adaea/4:3/w_1280,c_limit/989949876"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/60867c5011601c3fd89adaea/4:3/w_1600,c_limit/989949876"
+                            }
+                        },
+                        "masterAspectRatio": "5472:3078",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/60867c5011601c3fd89adaea/1:1/w_768,c_limit/989949876"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/60867c5011601c3fd89adaea/4:3/w_1600,c_limit/989949876"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "The Places",
+                        "url": "/the-places"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "Where to Eat, Stay, and Play in Minneapolis",
+                        "dek": "You won’t even mind the cold."
+                    },
+                    "url": "/story/what-to-do-in-minneapolis"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Travis Levius</a> is a freelance writer and editor, content creator and hospitality consultant based in London. After quitting his teaching job in Atlanta to pursue the unknown across the pond, he somehow stumbled upon a career that&#39;s brought him on Indonesian yachts, face-to-face with Easter Island&#39;s mysterious moai and in...",
+                                    "dangerousTitle": "Contributing Writer",
+                                    "name": "Travis Levius",
+                                    "socialMedia": [],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "gallery",
+                    "copilotID": "5c74a41cb36948415881db00",
+                    "dangerousHed": "19 Best Things to Do in Bali",
+                    "dangerousDek": "Temples, gardens, Old World monkeys, and surfing beaches all combine to keep the curious satisfied in Bali.",
+                    "date": "April 29, 2021",
+                    "image": {
+                        "altText": "Image may contain Outdoors Nature Land Ocean Water Sea Shoreline Coast Human Person and Island",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "5c75ad52220899446165772f",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/5c75ad52220899446165772f/1:1/w_768,c_limit/GettyImages-538591465.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/5c75ad52220899446165772f/4:3/w_1280,c_limit/GettyImages-538591465.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/5c75ad52220899446165772f/4:3/w_1600,c_limit/GettyImages-538591465.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "4000:2657",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/5c75ad52220899446165772f/1:1/w_768,c_limit/GettyImages-538591465.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/5c75ad52220899446165772f/4:3/w_1600,c_limit/GettyImages-538591465.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "itemsCount": {
+                        "count": 19,
+                        "itemType": "slide"
+                    },
+                    "rubric": {
+                        "name": "The Places",
+                        "url": "/the-places"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "19 Best Things to Do in Bali",
+                        "dek": "Temples, gardens, Old World monkeys, and surfing beaches all combine to keep the curious satisfied in Bali."
+                    },
+                    "url": "/gallery/best-things-to-do-in-bali"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Megan Zhang</a> is a culture journalist and video producer exploring how place and perspective intertwine. Megan has hiked in the cloud forests of Costa Rica, learned to make chocolate in Prague, and filmed rare monkeys in China&#39;s remote Shangri-La. She has backpacked through more than two dozen countries, and her...",
+                                    "dangerousTitle": null,
+                                    "name": "Megan Zhang",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Megan Zhang on Instagram",
+                                            "handle": "https://www.instagram.com/meganjzhang/",
+                                            "network": "instagram"
+                                        },
+                                        {
+                                            "label": "Follow Megan Zhang on Twitter",
+                                            "handle": "https://twitter.com/meganjzhang",
+                                            "network": "twitter"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "6081a3f011601c3fd89adaa3",
+                    "dangerousHed": "In Mexico City, Aztec-Era Floating Gardens Offer a Path to Sustainable Eating",
+                    "dangerousDek": "Xochimilco, largely known to travelers for its colorful party boats, has been an important food source during the pandemic. ",
+                    "date": "April 29, 2021",
+                    "image": {
+                        "altText": "Mexico City's Aztec Era Floating Gardens Xochimilco landscape in mexico city",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "608c76e85e7a9305842b1109",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/608c76e85e7a9305842b1109/1:1/w_768,c_limit/Mexico%2520City's%2520Aztec%2520Era%2520Floating%2520Gardens_GettyImages-1212390443.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/608c76e85e7a9305842b1109/4:3/w_1280,c_limit/Mexico%2520City's%2520Aztec%2520Era%2520Floating%2520Gardens_GettyImages-1212390443.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/608c76e85e7a9305842b1109/4:3/w_1600,c_limit/Mexico%2520City's%2520Aztec%2520Era%2520Floating%2520Gardens_GettyImages-1212390443.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "2917:1945",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/608c76e85e7a9305842b1109/1:1/w_768,c_limit/Mexico%2520City's%2520Aztec%2520Era%2520Floating%2520Gardens_GettyImages-1212390443.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/608c76e85e7a9305842b1109/4:3/w_1600,c_limit/Mexico%2520City's%2520Aztec%2520Era%2520Floating%2520Gardens_GettyImages-1212390443.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "The Intel",
+                        "url": "/the-intel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "In Mexico City, Aztec-Era Floating Gardens Offer a Path to Sustainable Eating",
+                        "dek": "Xochimilco, largely known to travelers for its colorful party boats, has been an important food source during the pandemic.&nbsp;"
+                    },
+                    "url": "/story/in-mexico-city-aztec-era-floating-gardens-offer-a-path-to-sustainable-eating"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Ashlea Halpern</a> is a contributing editor at <em>Condé Nast Traveler</em> and cofounder of <a href=\"https://minnevangelist.com/\" target=\"_blank\">Minnevangelist</a>, a site dedicated to all things Minnesota. She&#39;s usually on the road six months a year and contributes regularly to <em>Bon Appétit, New York</em> Magazine, <em>AFAR,</em> <em>Airbnb</em>, <em>TIME, Midwest Living, Artful Living,</em> and <em>Minnesota Monthly.</em>...",
+                                    "dangerousTitle": "Contributing Editor",
+                                    "name": "Ashlea Halpern",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Ashlea Halpern on Twitter",
+                                            "handle": "https://twitter.com/ashleahalpern",
+                                            "network": "twitter"
+                                        },
+                                        {
+                                            "label": "Follow Ashlea Halpern on Instagram",
+                                            "handle": "http://instagram.com/ashleahalpern",
+                                            "network": "instagram"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "gallery",
+                    "copilotID": "5a99864e0e2cf839e9dbfe74",
+                    "dangerousHed": "23 Best Things to Do in Singapore",
+                    "dangerousDek": "The cost of admission is high, but this is one place you&#39;ll never be bored.",
+                    "date": "May 5, 2021",
+                    "image": {
+                        "altText": "Singapore Pulau Ubin ",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "5d543cc366700c0008ca22df",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/5d543cc366700c0008ca22df/1:1/w_768,c_limit/00-Singapore-PulauUbin-2019-GettyImages-119659180.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/5d543cc366700c0008ca22df/4:3/w_1280,c_limit/00-Singapore-PulauUbin-2019-GettyImages-119659180.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/5d543cc366700c0008ca22df/4:3/w_1600,c_limit/00-Singapore-PulauUbin-2019-GettyImages-119659180.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "3888:2592",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/5d543cc366700c0008ca22df/1:1/w_768,c_limit/00-Singapore-PulauUbin-2019-GettyImages-119659180.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/5d543cc366700c0008ca22df/4:3/w_1600,c_limit/00-Singapore-PulauUbin-2019-GettyImages-119659180.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "itemsCount": {
+                        "count": 23,
+                        "itemType": "slide"
+                    },
+                    "rubric": {
+                        "name": "The Places",
+                        "url": "/the-places"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "23 Best Things to Do in Singapore",
+                        "dek": "The cost of admission is high, but this is one place you'll never be bored. "
+                    },
+                    "url": "/gallery/best-things-to-do-in-singapore"
+                }
+            ],
+            "layout": "",
+            "template": "verso-features",
+            "shouldHideVideoDek": false
+        },
+        {
+            "dangerousDek": "",
+            "dangerousHed": "Travel News",
+            "items": [
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Megan Spurrell</a> is an associate editor at <em>Condé Nast Traveler</em>. Originally from Los Angeles, she&#39;s made homes of Rio de Janeiro, Lima, and Oakland prior to landing in Brooklyn where she is currently based. This year, she hopes to make her first visit to Africa (the music scene in Dakar...",
+                                    "dangerousTitle": null,
+                                    "name": "Megan Spurrell",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Megan Spurrell on Instagram",
+                                            "handle": "https://www.instagram.com/spurrelly/",
+                                            "network": "instagram"
+                                        },
+                                        {
+                                            "label": "Follow Megan Spurrell on Twitter",
+                                            "handle": "https://twitter.com/meganspurrell_?lang=en",
+                                            "network": "twitter"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "5ee7b9ce6a4485f69c716036",
+                    "dangerousHed": "The Latest on Lockdowns Throughout Europe",
+                    "dangerousDek": "The latest on which countries are open to Americans. ",
+                    "date": "May 7, 2021",
+                    "image": {
+                        "altText": "Lockdowns in Europe Eiffel Tower Paris France",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "608af3e75e7a9305842b0fe1",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/608af3e75e7a9305842b0fe1/1:1/w_768,c_limit/Latest%2520on%2520Lockdowns%2520Europe__France_GettyImages-1145422105.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/608af3e75e7a9305842b0fe1/4:3/w_1280,c_limit/Latest%2520on%2520Lockdowns%2520Europe__France_GettyImages-1145422105.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/608af3e75e7a9305842b0fe1/4:3/w_1600,c_limit/Latest%2520on%2520Lockdowns%2520Europe__France_GettyImages-1145422105.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "4560:3040",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/608af3e75e7a9305842b0fe1/1:1/w_768,c_limit/Latest%2520on%2520Lockdowns%2520Europe__France_GettyImages-1145422105.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/608af3e75e7a9305842b0fe1/4:3/w_1600,c_limit/Latest%2520on%2520Lockdowns%2520Europe__France_GettyImages-1145422105.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "The Latest",
+                        "url": "/the-intel/the-latest"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "A Country-By-Country Guide to Europe’s Summer Reopening",
+                        "dek": "The latest on which countries are open to Americans.&nbsp;"
+                    },
+                    "url": "/story/how-countries-in-europe-are-reopening"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Shannon McMahon</a> is a contributing editor at <em>Condé Nast Traveler</em> with a background in news reporting, destination features, and data journalism. Previously the Editor of News and Features at SmarterTravel.com, she has written for <em>The Washington Post</em>, <em>USA Today,</em> Business Insider, The Huffington Post, Tripadvisor.com, Boston.com, and more. A Boston native,...",
+                                    "dangerousTitle": "Contributing Editor",
+                                    "name": "Shannon McMahon",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Shannon McMahon on Twitter",
+                                            "handle": "https://twitter.com/shanmcmahon_",
+                                            "network": "twitter"
+                                        },
+                                        {
+                                            "label": "Follow Shannon McMahon on Instagram",
+                                            "handle": "https://www.instagram.com/shanmcmahon/ ",
+                                            "network": "instagram"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "608979541ed52656b7ed4077",
+                    "dangerousHed": "What the CDC&#39;s New Outdoor Masking Guidance Means for Travelers",
+                    "dangerousDek": "We ask the experts to demystify the new, more-lenient outdoor masking guidance.",
+                    "date": "April 29, 2021",
+                    "image": {
+                        "altText": "People wearing masks walking in Gantry Plaza State Park Long Island City during COVID19",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "608aeba85e7a9305842b0fdf",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/608aeba85e7a9305842b0fdf/1:1/w_768,c_limit/Masking%2520Outdoors_GettyImages-1236806367.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/608aeba85e7a9305842b0fdf/4:3/w_1280,c_limit/Masking%2520Outdoors_GettyImages-1236806367.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/608aeba85e7a9305842b0fdf/4:3/w_1600,c_limit/Masking%2520Outdoors_GettyImages-1236806367.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "7360:4912",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/608aeba85e7a9305842b0fdf/1:1/w_768,c_limit/Masking%2520Outdoors_GettyImages-1236806367.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/608aeba85e7a9305842b0fdf/4:3/w_1600,c_limit/Masking%2520Outdoors_GettyImages-1236806367.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "The Latest",
+                        "url": "/the-intel/the-latest"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "What the CDC's New Outdoor Masking Guidance Means for Travelers",
+                        "dek": "We ask the experts to demystify the new, more-lenient outdoor masking guidance."
+                    },
+                    "url": "/story/what-the-cdcs-new-outdoor-masking-guidance-means-for-travelers"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Jessica Puckett</a> is an Emmy Award-winning journalist who covers airlines and aviation for <em>Condé Nast Traveler</em>. She has previously covered travel news at The Points Guy and domestic and foreign affairs at ABC News.",
+                                    "dangerousTitle": "Transportation Editor",
+                                    "name": "Jessica Puckett",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Jessica Puckett on Twitter",
+                                            "handle": "https://twitter.com/jesspuck",
+                                            "network": "twitter"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "5e4c42f2c5bf150008b41734",
+                    "dangerousHed": "What Travelers Need to Know About the New Real ID Deadline",
+                    "dangerousDek": "By 2023, all U.S. travelers will need certain identification to board any commercial aircraft in the country. ",
+                    "date": "May 3, 2021",
+                    "image": {
+                        "altText": "Aircraft landing on runway during sunset",
+                        "caption": "Gatwick Airport, London, United Kingdom",
+                        "contentType": "photo",
+                        "credit": "Derek Croucher",
+                        "id": "5e4c6693809ef900082d2ce7",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/5e4c6693809ef900082d2ce7/1:1/w_768,c_limit/GettyImages-sb10062851ai-001.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/5e4c6693809ef900082d2ce7/4:3/w_1280,c_limit/GettyImages-sb10062851ai-001.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/5e4c6693809ef900082d2ce7/4:3/w_1600,c_limit/GettyImages-sb10062851ai-001.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "4992:3328",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/5e4c6693809ef900082d2ce7/1:1/w_768,c_limit/GettyImages-sb10062851ai-001.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/5e4c6693809ef900082d2ce7/4:3/w_1600,c_limit/GettyImages-sb10062851ai-001.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Air Travel",
+                        "url": "/get-there/air-travel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "What Travelers Need to Know About the New Real ID Deadline",
+                        "dek": "By 2023, all U.S. travelers will need certain identification to board any commercial aircraft in the country.&nbsp;"
+                    },
+                    "url": "/story/real-id-deadline-what-travelers-should-know"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Shannon McMahon</a> is a contributing editor at <em>Condé Nast Traveler</em> with a background in news reporting, destination features, and data journalism. Previously the Editor of News and Features at SmarterTravel.com, she has written for <em>The Washington Post</em>, <em>USA Today,</em> Business Insider, The Huffington Post, Tripadvisor.com, Boston.com, and more. A Boston native,...",
+                                    "dangerousTitle": "Contributing Editor",
+                                    "name": "Shannon McMahon",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Shannon McMahon on Twitter",
+                                            "handle": "https://twitter.com/shanmcmahon_",
+                                            "network": "twitter"
+                                        },
+                                        {
+                                            "label": "Follow Shannon McMahon on Instagram",
+                                            "handle": "https://www.instagram.com/shanmcmahon/ ",
+                                            "network": "instagram"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "6086dcc8211142d4f9886987",
+                    "dangerousHed": "The Most Popular Summer Travel Destinations This Year, According to Flight Data",
+                    "dangerousDek": "As Americans venture back out and flight deals persist, some clear summer travel hotspots are emerging for 2021.",
+                    "date": "April 27, 2021",
+                    "image": {
+                        "altText": "Wyoming USA",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "608874a311601c3fd89adf1c",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/608874a311601c3fd89adf1c/1:1/w_768,c_limit/Where-Americans-Are-Traveling-This-Summer-According-to-Flight-Data_Wyoming_GettyImages-961339680.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/608874a311601c3fd89adf1c/4:3/w_1280,c_limit/Where-Americans-Are-Traveling-This-Summer-According-to-Flight-Data_Wyoming_GettyImages-961339680.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/608874a311601c3fd89adf1c/4:3/w_1600,c_limit/Where-Americans-Are-Traveling-This-Summer-According-to-Flight-Data_Wyoming_GettyImages-961339680.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "7232:4713",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/608874a311601c3fd89adf1c/1:1/w_768,c_limit/Where-Americans-Are-Traveling-This-Summer-According-to-Flight-Data_Wyoming_GettyImages-961339680.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/608874a311601c3fd89adf1c/4:3/w_1600,c_limit/Where-Americans-Are-Traveling-This-Summer-According-to-Flight-Data_Wyoming_GettyImages-961339680.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Air Travel",
+                        "url": "/get-there/air-travel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "The Most Popular Summer Travel Destinations This Year, According to Flight Data",
+                        "dek": "As Americans venture back out and flight deals persist, some clear summer travel hotspots are emerging for 2021."
+                    },
+                    "url": "/story/the-most-popular-summer-travel-destinations-this-year-according-to-flight-data"
+                }
+            ],
+            "layout": "",
+            "template": "verso-features",
+            "shouldHideVideoDek": false
+        },
+        {
+            "dangerousDek": "",
+            "dangerousHed": "Packing List",
+            "items": [
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Jane Sung</a> is a Los Angeles-based freelance writer and editor with more than a decade of experience creating fashion, beauty, and lifestyle content for print and digital media. Previously, she was the Special Sections &amp; Market Director at <em>Lucky</em> and has held staff positions at NBC Universal and <em>Cookie</em> magazine.",
+                                    "dangerousTitle": null,
+                                    "name": "Jane Sung",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Jane Sung on Twitter",
+                                            "handle": "https://twitter.com/JaneHSung",
+                                            "network": "twitter"
+                                        },
+                                        {
+                                            "label": "Follow Jane Sung on Instagram",
+                                            "handle": "https://www.instagram.com/janeguetti/",
+                                            "network": "instagram"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "59970ba52761d54e0354ca85",
+                    "dangerousHed": "How to Pack Light",
+                    "dangerousDek": "From the suitcase you choose to the jacket you wear, it pays to be strategic when you pack.",
+                    "date": "August 18, 2017",
+                    "image": {
+                        "altText": "Image may contain Home Decor Clothing Apparel Linen Tape Shirt Sun Hat Hat Electronics and Camera",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "598b443b8eea180727042be6",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/598b443b8eea180727042be6/1:1/w_768,c_limit/GettyImages-536992225.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/598b443b8eea180727042be6/4:3/w_1280,c_limit/GettyImages-536992225.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/598b443b8eea180727042be6/4:3/w_1600,c_limit/GettyImages-536992225.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "3500:2625",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/598b443b8eea180727042be6/1:1/w_768,c_limit/GettyImages-536992225.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/598b443b8eea180727042be6/4:3/w_1600,c_limit/GettyImages-536992225.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Gear & Guides",
+                        "url": "/the-intel/gear-and-guides"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "How to Pack Light",
+                        "dek": "From the suitcase you choose to the jacket you wear, it pays to be strategic when you pack."
+                    },
+                    "url": "/story/how-to-pack-light"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": null,
+                                    "dangerousTitle": null,
+                                    "name": "CNT Editors",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow CNT Editors on ",
+                                            "handle": "",
+                                            "network": ""
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "gallery",
+                    "copilotID": "609031ed7dd7a18f7a9d4353",
+                    "dangerousHed": "9 Sunglasses Our Editors Never Travel Without",
+                    "dangerousDek": "Add these to your summer shopping list.",
+                    "date": "May 3, 2021",
+                    "image": {
+                        "altText": "Sunglasses Traveler Editors Always Have in Our Bags Smith",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "",
+                        "id": "6079cae8240c860580534bff",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/6079cae8240c860580534bff/1:1/w_768,c_limit/Sunglasses-Traveler-Editors-Always-Have-in-Our-Bags.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/6079cae8240c860580534bff/4:3/w_1280,c_limit/Sunglasses-Traveler-Editors-Always-Have-in-Our-Bags.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/6079cae8240c860580534bff/4:3/w_1600,c_limit/Sunglasses-Traveler-Editors-Always-Have-in-Our-Bags.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "2000:1125",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/6079cae8240c860580534bff/1:1/w_768,c_limit/Sunglasses-Traveler-Editors-Always-Have-in-Our-Bags.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/6079cae8240c860580534bff/4:3/w_1600,c_limit/Sunglasses-Traveler-Editors-Always-Have-in-Our-Bags.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "itemsCount": {
+                        "count": 9,
+                        "itemType": "slide"
+                    },
+                    "rubric": {
+                        "name": "Gear & Guides",
+                        "url": "/the-intel/gear-and-guides"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "9 Sunglasses Our Editors Never Travel Without",
+                        "dek": "Add these to your summer shopping list."
+                    },
+                    "url": "/gallery/best-sunglasses-according-to-editors"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "Meg prefers being on the go to sitting still. She has produced photography in 39 states and Canada. Her work can be seen in WWE, <em>Women&#39;s Health, Men&#39;s Health, Newsweek, This Old House, Scientific American, The Knot,</em> and <em>Get Crocked,</em> among other publications.  When she&#39;s not working, you&#39;ll find...",
+                                    "dangerousTitle": "Freelance Producer &amp; Photo Editor",
+                                    "name": "Meg Reinhardt",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Meg Reinhardt on Instagram",
+                                            "handle": "https://www.instagram.com/meggazine",
+                                            "network": "instagram"
+                                        },
+                                        {
+                                            "label": "Follow Meg Reinhardt on LinkedIn",
+                                            "handle": "http://linkedin.com/in/megreinhardt",
+                                            "network": "linkedin"
+                                        }
+                                    ],
+                                    "url": ""
+                                },
+                                {
+                                    "dangerousBio": "London-born, Louis has previously written for <em>The Atlantic</em> and <em>GQ</em>, and held editorial roles at <em>Vanity Fair</em> and <em>The Independent</em>. He is best reached when Leicester City aren&#39;t playing, and for no good reason feels more comfortable on the Dreamliner than any other plane.",
+                                    "dangerousTitle": null,
+                                    "name": "Louis Cheslaw",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Louis Cheslaw on Instagram",
+                                            "handle": "https://www.instagram.com/louischeslaw/",
+                                            "network": "instagram"
+                                        }
+                                    ],
+                                    "url": ""
+                                },
+                                {
+                                    "dangerousBio": "A native of West Virginia, <a href=\"https://www.lindsaylday.com/\">Lindsay Lambert Day</a> is a Boston-based freelance travel and lifestyle writer and editor. She&#39;s written about everything from Sri Lanka&#39;s mangroves to the Vatican&#39;s hidden mosaic studio for print and digital publications including <em>Afar</em>, <em>Architectural Digest</em>, CNN Travel, <em>Delta Sky,</em> <em>Departures</em>, <em>Here</em>, and <em>Vogue</em>, among...",
+                                    "dangerousTitle": null,
+                                    "name": "Lindsay Lambert Day",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Lindsay Lambert Day on Twitter",
+                                            "handle": "http://twitter.com/lindsaylday",
+                                            "network": "twitter"
+                                        },
+                                        {
+                                            "label": "Follow Lindsay Lambert Day on Instagram",
+                                            "handle": "http://www.instagram.com/lindsaylday",
+                                            "network": "instagram"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "gallery",
+                    "copilotID": "5baa866fdb225a4f50684849",
+                    "dangerousHed": "The Best Travel Cameras for Every Type of Trip",
+                    "dangerousDek": "Professional photographers share their favorite cameras for frame-worthy images and crisp video, whether you’re shooting the Big Five or Big Sur.",
+                    "date": "April 14, 2021",
+                    "image": {
+                        "altText": "Photographer in nature",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "6073924e25f64450f3404896",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/6073924e25f64450f3404896/1:1/w_768,c_limit/PhotographerNature-2021-GettyImages-1077203902.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/6073924e25f64450f3404896/4:3/w_1280,c_limit/PhotographerNature-2021-GettyImages-1077203902.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/6073924e25f64450f3404896/4:3/w_1600,c_limit/PhotographerNature-2021-GettyImages-1077203902.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "3000:1679",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/6073924e25f64450f3404896/1:1/w_768,c_limit/PhotographerNature-2021-GettyImages-1077203902.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/6073924e25f64450f3404896/4:3/w_1600,c_limit/PhotographerNature-2021-GettyImages-1077203902.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "itemsCount": {
+                        "count": 15,
+                        "itemType": "slide"
+                    },
+                    "rubric": {
+                        "name": "Gear & Guides",
+                        "url": "/the-intel/gear-and-guides"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "The Best Travel Cameras for Every Type of Trip",
+                        "dek": "Professional photographers share their favorite cameras for frame-worthy images and crisp video, whether you’re shooting the Big Five or Big Sur."
+                    },
+                    "url": "/gallery/best-cameras-for-travel"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": null,
+                                    "dangerousTitle": "<a href=\"/undefined\">Eric Rosen</a>",
+                                    "name": "Eric Rosen",
+                                    "socialMedia": [],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "5cbdd6efb2d77f785d683288",
+                    "dangerousHed": "Best Credit Cards for International Travel",
+                    "dangerousDek": "It&#39;s not about foreign transaction fees anymore.",
+                    "date": "April 22, 2019",
+                    "image": {
+                        "altText": "Bora Bora",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "5cbe0c26c4332b4024b5a7b9",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/5cbe0c26c4332b4024b5a7b9/1:1/w_768,c_limit/Bora-Bora_GettyImages-575081115.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "4:3",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/5cbe0c26c4332b4024b5a7b9/4:3/w_1280,c_limit/Bora-Bora_GettyImages-575081115.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "4:3",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/5cbe0c26c4332b4024b5a7b9/4:3/w_1600,c_limit/Bora-Bora_GettyImages-575081115.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "4000:2667",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/5cbe0c26c4332b4024b5a7b9/1:1/w_768,c_limit/Bora-Bora_GettyImages-575081115.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "4:3",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/5cbe0c26c4332b4024b5a7b9/4:3/w_1600,c_limit/Bora-Bora_GettyImages-575081115.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "The Intel",
+                        "url": "/the-intel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "Best Credit Cards for International Travel",
+                        "dek": "Your next travel card should do way more than simply waiving foreign transaction fees."
+                    },
+                    "url": "/story/best-cards-for-international-travel"
+                }
+            ],
+            "layout": "",
+            "template": "verso-features",
+            "shouldHideVideoDek": false
+        },
+        {
+            "dangerousDek": "",
+            "dangerousHed": "",
+            "items": [
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": null,
+                                    "dangerousTitle": null,
+                                    "name": "Sarah Kuta",
+                                    "socialMedia": [],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "609ebb75a8debd0f9d7e3d74",
+                    "dangerousHed": "9 Best Hikes in Colorado, From Alpine Meadows to Other-Worldly Rock Formations",
+                    "dangerousDek": "If it isn&#39;t illegal to visit Colorado and not go for a hike, it should be.",
+                    "date": "May 18, 2021",
+                    "image": {
+                        "altText": "Maroon Bells Colorado",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Ron and Patty Thomas/Getty",
+                        "id": "609eeffa1da8d80b082e4408",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/609eeffa1da8d80b082e4408/1:1/w_768,c_limit/108350639"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/609eeffa1da8d80b082e4408/1:1/w_1280,c_limit/108350639"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/609eeffa1da8d80b082e4408/1:1/w_1600,c_limit/108350639"
+                            }
+                        },
+                        "masterAspectRatio": "5600:4219",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/609eeffa1da8d80b082e4408/1:1/w_768,c_limit/108350639"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/609eeffa1da8d80b082e4408/1:1/w_1600,c_limit/108350639"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "The Places",
+                        "url": "/the-places"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "9 Best Hikes in Colorado, From Alpine Meadows to Other-Worldly Rock Formations",
+                        "dek": "If it isn't illegal to visit Colorado and not go for a hike, it should be."
+                    },
+                    "url": "/story/best-hikes-in-colorado"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "Based in Cape Town, Jane has been freelancing as a food and travel writer since 2000. Her assignments for titles, including <em>Condé Nast Traveler, Robb Report, Travel + Leisure,</em> and <em>Afar</em> have taken her to iconic destinations throughout Southern and East Africa and the Indian Ocean islands.",
+                                    "dangerousTitle": "Contributing Writer",
+                                    "name": "Jane Broughton",
+                                    "socialMedia": [],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "604a691327e2fd8ada48aa67",
+                    "dangerousHed": "Botswana&#39;s Xigera Lodge Has a Light Footprint and a Major Impact",
+                    "dangerousDek": "In Botswana, a country renowned for its considered approach to wildlife protection, this reinvented camp is taking things to the next level, with a minimal carbon footprint and a spotlight on regional craft.",
+                    "date": "May 18, 2021",
+                    "image": {
+                        "altText": "Cond Nast Traveler  Travel Reviews News Guides  Tips",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Courtesy Xigera Safari Lodge",
+                        "id": "6054ce0b4e07703addae38c6",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/6054ce0b4e07703addae38c6/1:1/w_768,c_limit/CNTApril2021-WOMXigera-_DSC6678.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/6054ce0b4e07703addae38c6/1:1/w_1280,c_limit/CNTApril2021-WOMXigera-_DSC6678.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/6054ce0b4e07703addae38c6/1:1/w_1600,c_limit/CNTApril2021-WOMXigera-_DSC6678.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "5970:3985",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/6054ce0b4e07703addae38c6/1:1/w_768,c_limit/CNTApril2021-WOMXigera-_DSC6678.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/6054ce0b4e07703addae38c6/1:1/w_1600,c_limit/CNTApril2021-WOMXigera-_DSC6678.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Hotels and Resorts",
+                        "url": "/stay-here/hotels-and-resorts"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "Botswana's Xigera Lodge Has a Light Footprint and a Major Impact",
+                        "dek": "In Botswana, a country renowned for its considered approach to wildlife protection, this reinvented camp is taking things to the next level, with a minimal carbon footprint and a spotlight on regional craft."
+                    },
+                    "url": "/story/botswanas-xigera-lodge-has-a-light-footprint-and-a-major-impact"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Kwin Mosby</a> is a freelance journalist and editor based in Washington, D.C. His writing focuses on but is not limited to Black and LGBTQ+ topics, luxury travel, adventure travel, and immersive cultural experiences. A former managing producer for Travel Channel and a former managing editor for Travel Leaders Group, Kwin’s...",
+                                    "dangerousTitle": null,
+                                    "name": "Kwin Mosby",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Kwin Mosby on Twitter",
+                                            "handle": "https://www.twitter.com/kwinmosby",
+                                            "network": "twitter"
+                                        },
+                                        {
+                                            "label": "Follow Kwin Mosby on Instagram",
+                                            "handle": "https://www.instagram/kwinmosby",
+                                            "network": "instagram"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "60998f223245b6258fa72887",
+                    "dangerousHed": "Netflix&#39;s &#39;High on the Hog&#39; Retraces the Origins of Black Food Culture",
+                    "dangerousDek": "Host Stephen Satterfield on the importance of understanding food origins, the Black food movement, and his favorite filming locations.",
+                    "date": "May 18, 2021",
+                    "image": {
+                        "altText": "High on the Hog Netflix",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Courtesy Netflix",
+                        "id": "60998e3b3245b6258fa72886",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/60998e3b3245b6258fa72886/1:1/w_768,c_limit/HighontheHog_HowAfricanAmericanCuisineTransformedAmerica_LimitedSeries_Episode2_00_44_54_10.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/60998e3b3245b6258fa72886/1:1/w_1280,c_limit/HighontheHog_HowAfricanAmericanCuisineTransformedAmerica_LimitedSeries_Episode2_00_44_54_10.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/60998e3b3245b6258fa72886/1:1/w_1600,c_limit/HighontheHog_HowAfricanAmericanCuisineTransformedAmerica_LimitedSeries_Episode2_00_44_54_10.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "3840:2160",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/60998e3b3245b6258fa72886/1:1/w_768,c_limit/HighontheHog_HowAfricanAmericanCuisineTransformedAmerica_LimitedSeries_Episode2_00_44_54_10.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/60998e3b3245b6258fa72886/1:1/w_1600,c_limit/HighontheHog_HowAfricanAmericanCuisineTransformedAmerica_LimitedSeries_Episode2_00_44_54_10.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "The Latest",
+                        "url": "/the-intel/the-latest"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "Netflix's 'High on the Hog' Retraces the Origins of Black Food Culture",
+                        "dek": "Host Stephen Satterfield on the importance of understanding food origins, the Black food movement, and his favorite filming locations."
+                    },
+                    "url": "/story/netflixs-high-on-the-hog-retraces-the-origins-of-black-food-culture"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": null,
+                                    "dangerousTitle": null,
+                                    "name": "CNT Editors",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow CNT Editors on ",
+                                            "handle": "",
+                                            "network": ""
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "60a29177ffcf58f724f297b0",
+                    "dangerousHed": "The Women Who Travel Guide to New Music Around the World",
+                    "dangerousDek": "The women reinvigorating their country&#39;s music industries, honoring the greats, and creating the sounds we love listening to. ",
+                    "date": "May 17, 2021",
+                    "image": {
+                        "altText": "WWT Music",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "",
+                        "id": "609da224ba01da3e65cb6a6f",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/609da224ba01da3e65cb6a6f/1:1/w_768,c_limit/WWT%2520Music%2520Package.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/609da224ba01da3e65cb6a6f/1:1/w_1280,c_limit/WWT%2520Music%2520Package.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/609da224ba01da3e65cb6a6f/1:1/w_1600,c_limit/WWT%2520Music%2520Package.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "3000:2160",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/609da224ba01da3e65cb6a6f/1:1/w_768,c_limit/WWT%2520Music%2520Package.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/609da224ba01da3e65cb6a6f/1:1/w_1600,c_limit/WWT%2520Music%2520Package.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Women Who Travel",
+                        "url": "/women-who-travel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "The Women Who Travel Guide to New Music Around the World",
+                        "dek": "The women reinvigorating their country's music industries, honoring the greats, and creating the sounds we love listening to.&nbsp;"
+                    },
+                    "url": "/story/the-women-who-travel-guide-to-new-music-around-the-world"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Ify Obi</a> is a Nigerian-based contributor to <em>Conde Nast Traveler</em>",
+                                    "dangerousTitle": "<a href=\"/undefined\">Ify Obi</a>",
+                                    "name": "Ify Obi",
+                                    "socialMedia": [],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "60a2922c1da8d80b082e4418",
+                    "dangerousHed": "In Lagos, A Female Duo Is Celebrating the Legacy of Afrobeats",
+                    "dangerousDek": "The Kan Àwa collective, made up of Olayinka Owoseni and Yvette Ogungbe, wants the world to know about the genre.",
+                    "date": "May 17, 2021",
+                    "image": {
+                        "altText": "Kan Awa",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "TSE",
+                        "id": "609d65996be30e53bf3087f1",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/609d65996be30e53bf3087f1/1:1/w_768,c_limit/Kan%2520Awa_lede_Credit%2520TSE.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/609d65996be30e53bf3087f1/1:1/w_1280,c_limit/Kan%2520Awa_lede_Credit%2520TSE.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/609d65996be30e53bf3087f1/1:1/w_1600,c_limit/Kan%2520Awa_lede_Credit%2520TSE.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "8333:6038",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/609d65996be30e53bf3087f1/1:1/w_768,c_limit/Kan%2520Awa_lede_Credit%2520TSE.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/609d65996be30e53bf3087f1/1:1/w_1600,c_limit/Kan%2520Awa_lede_Credit%2520TSE.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Women Who Travel",
+                        "url": "/women-who-travel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "In Lagos, A Female Duo Is Celebrating the Legacy of Afrobeats",
+                        "dek": "The Kan Àwa collective, made up of Olayinka Owoseni and Yvette Ogungbe, wants the world to know about the genre."
+                    },
+                    "url": "/story/in-lagos-a-female-duo-is-celebrating-the-legacy-of-afrobeats"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Megan Spurrell</a> is an associate editor at <em>Condé Nast Traveler</em>. Originally from Los Angeles, she&#39;s made homes of Rio de Janeiro, Lima, and Oakland prior to landing in Brooklyn where she is currently based. This year, she hopes to make her first visit to Africa (the music scene in Dakar...",
+                                    "dangerousTitle": null,
+                                    "name": "Megan Spurrell",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Megan Spurrell on Instagram",
+                                            "handle": "https://www.instagram.com/spurrelly/",
+                                            "network": "instagram"
+                                        },
+                                        {
+                                            "label": "Follow Megan Spurrell on Twitter",
+                                            "handle": "https://twitter.com/meganspurrell_?lang=en",
+                                            "network": "twitter"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "609eb9f7c1ec6b9f339133d8",
+                    "dangerousHed": "Our Favorite New Music from Women Around the World",
+                    "dangerousDek": "Consider this global playlist your summer soundtrack.",
+                    "date": "May 17, 2021",
+                    "image": {
+                        "altText": "WWT Music Playlist",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Laura Araujo Morales",
+                        "id": "609da2be0573a81e1406a9e6",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/609da2be0573a81e1406a9e6/1:1/w_768,c_limit/Red_credit%2520Laura%2520Araujo%2520Morales_IMG-20210407-WA0040.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/609da2be0573a81e1406a9e6/1:1/w_1280,c_limit/Red_credit%2520Laura%2520Araujo%2520Morales_IMG-20210407-WA0040.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/609da2be0573a81e1406a9e6/1:1/w_1600,c_limit/Red_credit%2520Laura%2520Araujo%2520Morales_IMG-20210407-WA0040.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "924:1280",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/609da2be0573a81e1406a9e6/1:1/w_768,c_limit/Red_credit%2520Laura%2520Araujo%2520Morales_IMG-20210407-WA0040.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/609da2be0573a81e1406a9e6/1:1/w_1600,c_limit/Red_credit%2520Laura%2520Araujo%2520Morales_IMG-20210407-WA0040.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Women Who Travel",
+                        "url": "/women-who-travel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "Our Favorite New Music from Women Around the World",
+                        "dek": "Consider this global playlist your summer soundtrack."
+                    },
+                    "url": "/story/our-favorite-new-music-from-women-around-the-world"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Meredith Carey</a> oversees digital travel coverage of home rentals, the outdoors, train and car transportation, and more. She co-hosts the weekly <a href=\"https://podcasts.apple.com/us/podcast/women-who-travel/id1321118314\">Women Who Travel podcast</a>, which she and fellow <em>Traveler</em> editor Lale Arikoglu launched in 2017. She&#39;s hosted live podcast episodes at SXSW and Feast Portland and has appeared on...",
+                                    "dangerousTitle": "Associate Editor",
+                                    "name": "Meredith Carey",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Meredith Carey on Twitter",
+                                            "handle": "http://www.twitter.com/ohheytheremere",
+                                            "network": "twitter"
+                                        },
+                                        {
+                                            "label": "Follow Meredith Carey on Instagram",
+                                            "handle": "https://www.instagram.com/ohheytheremere/",
+                                            "network": "instagram"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "608060a411601c3fd89ada26",
+                    "dangerousHed": "Actor Lolly Adefope on Balmy Summer Nights in Budapest",
+                    "dangerousDek": "The <em>Shrill</em> actor and comedian on getting outside of her comfort zone at a luxe Hungarian villa. ",
+                    "date": "May 17, 2021",
+                    "image": {
+                        "altText": "Actor Lolly Adefope on Budapest",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Gayle Kabaker",
+                        "id": "609d90aaa8debd0f9d7e3d5f",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/609d90aaa8debd0f9d7e3d5f/1:1/w_768,c_limit/Actor%2520Lolly%2520Adefope%2520on%2520Budapest_Lolly.1.A.final.Apr.2.flat.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/609d90aaa8debd0f9d7e3d5f/1:1/w_1280,c_limit/Actor%2520Lolly%2520Adefope%2520on%2520Budapest_Lolly.1.A.final.Apr.2.flat.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/609d90aaa8debd0f9d7e3d5f/1:1/w_1600,c_limit/Actor%2520Lolly%2520Adefope%2520on%2520Budapest_Lolly.1.A.final.Apr.2.flat.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "3324:2623",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/609d90aaa8debd0f9d7e3d5f/1:1/w_768,c_limit/Actor%2520Lolly%2520Adefope%2520on%2520Budapest_Lolly.1.A.final.Apr.2.flat.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/609d90aaa8debd0f9d7e3d5f/1:1/w_1600,c_limit/Actor%2520Lolly%2520Adefope%2520on%2520Budapest_Lolly.1.A.final.Apr.2.flat.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "The Latest",
+                        "url": "/the-intel/the-latest"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "Actor Lolly Adefope on Balmy Summer Nights in Budapest",
+                        "dek": "The *Shrill* actor and comedian on getting outside of her comfort zone at a luxe Hungarian villa.&nbsp;"
+                    },
+                    "url": "/story/actor-lolly-adefope-on-balmy-summer-nights-in-budapest"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": null,
+                                    "dangerousTitle": "Contributor",
+                                    "name": "Diana Hubbell",
+                                    "socialMedia": [],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "609ac1a26d3955cf21d8ac3b",
+                    "dangerousHed": "Singer Laura Mam Is on a Mission to Revive Cambodia’s Vibrant Music Scene",
+                    "dangerousDek": "A new era of Cambodian artists want to bring back the country&#39;s longstanding musical heritage.",
+                    "date": "May 17, 2021",
+                    "image": {
+                        "altText": "Laura Mam",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "609d86dafa9c7ebdfc0d541e",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/609d86dafa9c7ebdfc0d541e/1:1/w_768,c_limit/Laura-Mam_GettyImages-1187727718.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/609d86dafa9c7ebdfc0d541e/1:1/w_1280,c_limit/Laura-Mam_GettyImages-1187727718.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/609d86dafa9c7ebdfc0d541e/1:1/w_1600,c_limit/Laura-Mam_GettyImages-1187727718.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "3000:1907",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/609d86dafa9c7ebdfc0d541e/1:1/w_768,c_limit/Laura-Mam_GettyImages-1187727718.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/609d86dafa9c7ebdfc0d541e/1:1/w_1600,c_limit/Laura-Mam_GettyImages-1187727718.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Women Who Travel",
+                        "url": "/women-who-travel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "Singer Laura Mam Is on a Mission to Revive Cambodia’s Vibrant Music Scene",
+                        "dek": "A new era of Cambodian artists want to bring back the country's longstanding musical heritage."
+                    },
+                    "url": "/story/singer-laura-mam-is-on-a-mission-to-revive-cambodias-vibrant-music-scene"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "Marjua is an Afrocaribbean writer born in the cultural bedrock of Washington Heights, New York, and raised between the Bronx and West Tampa. Formerly of VIBE, Billboard, TIDAL, BET, and more, her life’s work is dedicated to building on the legacies of her predecessors.",
+                                    "dangerousTitle": null,
+                                    "name": "Marjua Estevez",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Marjua Estevez on Instagram",
+                                            "handle": "https://www.instagram.com/_msestevez/",
+                                            "network": "instagram"
+                                        },
+                                        {
+                                            "label": "Follow Marjua Estevez on Twitter",
+                                            "handle": "https://twitter.com/_MsEstevez",
+                                            "network": "twitter"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "609d8cbd0573a81e1406a9de",
+                    "dangerousHed": "The Female Rappers Taking Up New Space in the Dominican Republic",
+                    "dangerousDek": "The homegrown female MCs are mixing elements of freestyling, drill, trap, and dembow for a sound all their own.",
+                    "date": "May 17, 2021",
+                    "image": {
+                        "altText": "These Female Rappers Are Changing the D.R.'s Dembow Scene",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "From left: Tokischa (photo credit: courtesy Tokischa), Red (photo credit: Emmanuel Espinosa Graba Video), J Noa (photo credit: Courtesy J Noa)",
+                        "id": "609eb1321da8d80b082e43c7",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/609eb1321da8d80b082e43c7/1:1/w_768,c_limit/These%2520Female%2520Rappers%2520Are%2520Changing%2520the%2520D.R.'s%2520Dembow%2520Scene.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/609eb1321da8d80b082e43c7/1:1/w_1280,c_limit/These%2520Female%2520Rappers%2520Are%2520Changing%2520the%2520D.R.'s%2520Dembow%2520Scene.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/609eb1321da8d80b082e43c7/1:1/w_1600,c_limit/These%2520Female%2520Rappers%2520Are%2520Changing%2520the%2520D.R.'s%2520Dembow%2520Scene.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "3000:2160",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/609eb1321da8d80b082e43c7/1:1/w_768,c_limit/These%2520Female%2520Rappers%2520Are%2520Changing%2520the%2520D.R.'s%2520Dembow%2520Scene.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/609eb1321da8d80b082e43c7/1:1/w_1600,c_limit/These%2520Female%2520Rappers%2520Are%2520Changing%2520the%2520D.R.'s%2520Dembow%2520Scene.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Women Who Travel",
+                        "url": "/women-who-travel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "The Female Rappers Taking Up New Space in the Dominican Republic",
+                        "dek": "The homegrown female MCs are mixing elements of freestyling, drill, trap, and dembow for a sound all their own."
+                    },
+                    "url": "/story/the-female-rappers-taking-up-new-space-in-the-dominican-republic"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Megan Spurrell</a> is an associate editor at <em>Condé Nast Traveler</em>. Originally from Los Angeles, she&#39;s made homes of Rio de Janeiro, Lima, and Oakland prior to landing in Brooklyn where she is currently based. This year, she hopes to make her first visit to Africa (the music scene in Dakar...",
+                                    "dangerousTitle": null,
+                                    "name": "Megan Spurrell",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Megan Spurrell on Instagram",
+                                            "handle": "https://www.instagram.com/spurrelly/",
+                                            "network": "instagram"
+                                        },
+                                        {
+                                            "label": "Follow Megan Spurrell on Twitter",
+                                            "handle": "https://twitter.com/meganspurrell_?lang=en",
+                                            "network": "twitter"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "609597013e25b4e8b573bb9b",
+                    "dangerousHed": "This Instagram Account Is How I Discover New Music from All Over the World",
+                    "dangerousDek": "From indie flamenco singers to Nigerian DJs. ",
+                    "date": "May 17, 2021",
+                    "image": {
+                        "altText": "Tigre Den Live Recording ft Gaiya",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Tigre Den Live Recording ft Gaiya (photo: Daniel Zuliani)",
+                        "id": "609d616e13475a76aa94251b",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/609d616e13475a76aa94251b/1:1/w_768,c_limit/Tigre%2520Sounds_Nat'Lee-%2520Tigre%2520Den%2520Recording.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/609d616e13475a76aa94251b/1:1/w_1280,c_limit/Tigre%2520Sounds_Nat'Lee-%2520Tigre%2520Den%2520Recording.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/609d616e13475a76aa94251b/1:1/w_1600,c_limit/Tigre%2520Sounds_Nat'Lee-%2520Tigre%2520Den%2520Recording.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "5600:4480",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/609d616e13475a76aa94251b/1:1/w_768,c_limit/Tigre%2520Sounds_Nat'Lee-%2520Tigre%2520Den%2520Recording.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/609d616e13475a76aa94251b/1:1/w_1600,c_limit/Tigre%2520Sounds_Nat'Lee-%2520Tigre%2520Den%2520Recording.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Women Who Travel",
+                        "url": "/women-who-travel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "This Instagram Account Is How I Discover New Music from All Over the World",
+                        "dek": "From indie flamenco singers to Nigerian DJs.&nbsp;"
+                    },
+                    "url": "/story/tigre-sounds-is-how-i-find-new-music-from-all-over-the-world"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Kaitlin Menza</a> is a writer and former editor at <em>Teen Vogue</em>, <em>Glamour</em>, and <em>Seventeen</em>. She covers food, travel, health, pop culture, and everything else wonderful the world has to offer. She lives in New York City. You can find her work at <a href=\"http://www.kaitlinmenza.com/\">kaitlinmenza.com</a>.",
+                                    "dangerousTitle": null,
+                                    "name": "Kaitlin Menza",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Kaitlin Menza on Twitter",
+                                            "handle": "@heykmenz",
+                                            "network": "twitter"
+                                        },
+                                        {
+                                            "label": "Follow Kaitlin Menza on Instagram",
+                                            "handle": "https://www.instagram.com/heykmenz/",
+                                            "network": "instagram"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "609a9f0e3245b6258fa72894",
+                    "dangerousHed": "How I Travel: Olympian Allyson Felix Can’t Wait for Shabu Shabu in Japan",
+                    "dangerousDek": "<em>We peek into the airport routines and bizarre quirks of the world&#39;s most well-traveled people.</em>",
+                    "date": "May 14, 2021",
+                    "image": {
+                        "altText": "Image may contain Human Person Female Art Woman Clothing and Apparel",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Agata Nowicka",
+                        "id": "609eb24d1da8d80b082e43c9",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/609eb24d1da8d80b082e43c9/1:1/w_768,c_limit/Allyson%2520final.png"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/609eb24d1da8d80b082e43c9/1:1/w_1280,c_limit/Allyson%2520final.png"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/609eb24d1da8d80b082e43c9/1:1/w_1600,c_limit/Allyson%2520final.png"
+                            }
+                        },
+                        "masterAspectRatio": "1731:969",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/609eb24d1da8d80b082e43c9/1:1/w_768,c_limit/Allyson%2520final.png"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/609eb24d1da8d80b082e43c9/1:1/w_1600,c_limit/Allyson%2520final.png"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "The Latest",
+                        "url": "/the-intel/the-latest"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "How I Travel: Olympian Allyson Felix Can’t Wait for Shabu Shabu in Japan",
+                        "dek": "*We peek into the airport routines and bizarre quirks of the world's most well-traveled people.*"
+                    },
+                    "url": "/story/how-i-travel-allyson-felix"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": null,
+                                    "dangerousTitle": null,
+                                    "name": "CNT Editors",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow CNT Editors on ",
+                                            "handle": "",
+                                            "network": ""
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "5b4cbb124b1b564ac0e61e70",
+                    "dangerousHed": "The Best Vacations for Kids at Every Age: A Trip Guide for Parents",
+                    "dangerousDek": "You have 18 summers with your kids before they&#39;re too cool to travel with you. Here&#39;s how to make every year count.",
+                    "date": "May 14, 2021",
+                    "image": {
+                        "altText": "Family Travel 18 Summers",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "608717d41ed52656b7ed3fe0",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/608717d41ed52656b7ed3fe0/1:1/w_768,c_limit/Family%2520Travel%252018%2520Summers_lede_GettyImages-510225914.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/608717d41ed52656b7ed3fe0/1:1/w_1280,c_limit/Family%2520Travel%252018%2520Summers_lede_GettyImages-510225914.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/608717d41ed52656b7ed3fe0/1:1/w_1600,c_limit/Family%2520Travel%252018%2520Summers_lede_GettyImages-510225914.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "6000:4005",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/608717d41ed52656b7ed3fe0/1:1/w_768,c_limit/Family%2520Travel%252018%2520Summers_lede_GettyImages-510225914.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/608717d41ed52656b7ed3fe0/1:1/w_1600,c_limit/Family%2520Travel%252018%2520Summers_lede_GettyImages-510225914.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "Family Travel",
+                        "url": "/gear-and-guides/family-travel"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "The Best Vacations for Kids at Every Age: A Trip Guide for Parents",
+                        "dek": "You have 18 summers with your kids before they're too cool to travel with you. Here's how to make every year count."
+                    },
+                    "url": "/story/18-summers-the-ultimate-guide-to-not-wasting-a-single-vacation-with-your-kids"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Shannon McMahon</a> is a contributing editor at <em>Condé Nast Traveler</em> with a background in news reporting, destination features, and data journalism. Previously the Editor of News and Features at SmarterTravel.com, she has written for <em>The Washington Post</em>, <em>USA Today,</em> Business Insider, The Huffington Post, Tripadvisor.com, Boston.com, and more. A Boston native,...",
+                                    "dangerousTitle": "Contributing Editor",
+                                    "name": "Shannon McMahon",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Shannon McMahon on Twitter",
+                                            "handle": "https://twitter.com/shanmcmahon_",
+                                            "network": "twitter"
+                                        },
+                                        {
+                                            "label": "Follow Shannon McMahon on Instagram",
+                                            "handle": "https://www.instagram.com/shanmcmahon/ ",
+                                            "network": "instagram"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "article",
+                    "copilotID": "609ebcd8ba01da3e65cb6a7c",
+                    "dangerousHed": "What the CDC’s New Indoor Masking Guidance Means for Travelers",
+                    "dangerousDek": "We speak to experts about the new guidelines, and why travel might be less impacted than you think.",
+                    "date": "May 14, 2021",
+                    "image": {
+                        "altText": "Indoor Masking Bathers at Asnieres Georges Seurat National Gallery",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Getty",
+                        "id": "609e976b13475a76aa94252a",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/609e976b13475a76aa94252a/1:1/w_768,c_limit/Indoor%2520Masking_GettyImages-1224652690.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/609e976b13475a76aa94252a/1:1/w_1280,c_limit/Indoor%2520Masking_GettyImages-1224652690.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/609e976b13475a76aa94252a/1:1/w_1600,c_limit/Indoor%2520Masking_GettyImages-1224652690.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "5568:3712",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/609e976b13475a76aa94252a/1:1/w_768,c_limit/Indoor%2520Masking_GettyImages-1224652690.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/609e976b13475a76aa94252a/1:1/w_1600,c_limit/Indoor%2520Masking_GettyImages-1224652690.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "rubric": {
+                        "name": "The Latest",
+                        "url": "/the-intel/the-latest"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "What the CDC’s New Indoor Masking Guidance Means for Travelers",
+                        "dek": "We speak to experts about the new guidelines, and why travel might be less impacted than you think."
+                    },
+                    "url": "/story/what-the-cdcs-new-indoor-masking-guidance-means-for-travelers"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Ashlea Halpern</a> is a contributing editor at <em>Condé Nast Traveler</em> and cofounder of <a href=\"https://minnevangelist.com/\" target=\"_blank\">Minnevangelist</a>, a site dedicated to all things Minnesota. She&#39;s usually on the road six months a year and contributes regularly to <em>Bon Appétit, New York</em> Magazine, <em>AFAR,</em> <em>Airbnb</em>, <em>TIME, Midwest Living, Artful Living,</em> and <em>Minnesota Monthly.</em>...",
+                                    "dangerousTitle": "Contributing Editor",
+                                    "name": "Ashlea Halpern",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Ashlea Halpern on Twitter",
+                                            "handle": "https://twitter.com/ashleahalpern",
+                                            "network": "twitter"
+                                        },
+                                        {
+                                            "label": "Follow Ashlea Halpern on Instagram",
+                                            "handle": "http://instagram.com/ashleahalpern",
+                                            "network": "instagram"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "gallery",
+                    "copilotID": "609452a15e7a9305842b11bb",
+                    "dangerousHed": "8 Church Airbnbs to Book Now, From a Vermont Chapel to a Former French Convent",
+                    "dangerousDek": "These renovated former churches have found new purposes as stunning vacation homes. ",
+                    "date": "May 14, 2021",
+                    "image": {
+                        "altText": "Church Airbnbs",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Courtesy Airbnb",
+                        "id": "609452b73e25b4e8b573bb48",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/609452b73e25b4e8b573bb48/1:1/w_768,c_limit/airbnb%252012299189.jpeg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/609452b73e25b4e8b573bb48/1:1/w_1280,c_limit/airbnb%252012299189.jpeg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/609452b73e25b4e8b573bb48/1:1/w_1600,c_limit/airbnb%252012299189.jpeg"
+                            }
+                        },
+                        "masterAspectRatio": "1200:797",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/609452b73e25b4e8b573bb48/1:1/w_768,c_limit/airbnb%252012299189.jpeg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/609452b73e25b4e8b573bb48/1:1/w_1600,c_limit/airbnb%252012299189.jpeg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "itemsCount": {
+                        "count": 8,
+                        "itemType": "slide"
+                    },
+                    "rubric": {
+                        "name": "Rentals",
+                        "url": "/stay-here/rentals"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "8 Church Airbnbs to Book Now, From a Vermont Chapel to a Former French Convent",
+                        "dek": "These renovated former churches have found new purposes as stunning vacation homes.&nbsp;"
+                    },
+                    "url": "/gallery/church-house-airbnbs"
+                },
+                {
+                    "contributors": {
+                        "author": {
+                            "items": [
+                                {
+                                    "dangerousBio": "<a href=\"/undefined\">Megan Spurrell</a> is an associate editor at <em>Condé Nast Traveler</em>. Originally from Los Angeles, she&#39;s made homes of Rio de Janeiro, Lima, and Oakland prior to landing in Brooklyn where she is currently based. This year, she hopes to make her first visit to Africa (the music scene in Dakar...",
+                                    "dangerousTitle": null,
+                                    "name": "Megan Spurrell",
+                                    "socialMedia": [
+                                        {
+                                            "label": "Follow Megan Spurrell on Instagram",
+                                            "handle": "https://www.instagram.com/spurrelly/",
+                                            "network": "instagram"
+                                        },
+                                        {
+                                            "label": "Follow Megan Spurrell on Twitter",
+                                            "handle": "https://twitter.com/meganspurrell_?lang=en",
+                                            "network": "twitter"
+                                        }
+                                    ],
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    },
+                    "contentType": "gallery",
+                    "copilotID": "6099ac33eb3a8c5cf2895e07",
+                    "dangerousHed": "The Best Tinned Fish to Stock up on this Summer: Italian Sardines, Sea Urchin Caviar, and More",
+                    "dangerousDek": "It&#39;s time to give these salty snacks a try.",
+                    "date": "May 14, 2021",
+                    "image": {
+                        "altText": "The Best Tinned Fish to Stock Up on this Summer 2021",
+                        "caption": "",
+                        "contentType": "photo",
+                        "credit": "Courtesy of Conserva",
+                        "id": "609961741fb447e0d0a2cc70",
+                        "sources": {
+                            "sm": {
+                                "aspectRatio": "1:1",
+                                "width": 768,
+                                "url": "https://media.cntraveler.com/photos/609961741fb447e0d0a2cc70/1:1/w_768,c_limit/The%2520Best%2520Tinned%2520Fish%2520to%2520Stock%2520Up%2520on%2520this%2520Summer-2021_LEDE_Conserva-table-The-Stockist.jpg"
+                            },
+                            "lg": {
+                                "aspectRatio": "1:1",
+                                "width": 1280,
+                                "url": "https://media.cntraveler.com/photos/609961741fb447e0d0a2cc70/1:1/w_1280,c_limit/The%2520Best%2520Tinned%2520Fish%2520to%2520Stock%2520Up%2520on%2520this%2520Summer-2021_LEDE_Conserva-table-The-Stockist.jpg"
+                            },
+                            "xxl": {
+                                "aspectRatio": "1:1",
+                                "width": 1600,
+                                "url": "https://media.cntraveler.com/photos/609961741fb447e0d0a2cc70/1:1/w_1600,c_limit/The%2520Best%2520Tinned%2520Fish%2520to%2520Stock%2520Up%2520on%2520this%2520Summer-2021_LEDE_Conserva-table-The-Stockist.jpg"
+                            }
+                        },
+                        "masterAspectRatio": "2040:1360",
+                        "segmentedSources": {
+                            "sm": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 768,
+                                    "url": "https://media.cntraveler.com/photos/609961741fb447e0d0a2cc70/1:1/w_768,c_limit/The%2520Best%2520Tinned%2520Fish%2520to%2520Stock%2520Up%2520on%2520this%2520Summer-2021_LEDE_Conserva-table-The-Stockist.jpg"
+                                }
+                            ],
+                            "lg": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "width": 1600,
+                                    "url": "https://media.cntraveler.com/photos/609961741fb447e0d0a2cc70/1:1/w_1600,c_limit/The%2520Best%2520Tinned%2520Fish%2520to%2520Stock%2520Up%2520on%2520this%2520Summer-2021_LEDE_Conserva-table-The-Stockist.jpg"
+                                }
+                            ]
+                        }
+                    },
+                    "isSponsored": false,
+                    "itemsCount": {
+                        "count": 12,
+                        "itemType": "slide"
+                    },
+                    "rubric": {
+                        "name": "The Latest",
+                        "url": "/the-intel/the-latest"
+                    },
+                    "signage": null,
+                    "source": {
+                        "hed": "The Best Tinned Fish to Stock up on this Summer: Italian Sardines, Sea Urchin Caviar, and More",
+                        "dek": "It's time to give these salty snacks a try."
+                    },
+                    "url": "/gallery/where-to-buy-tinned-fish-online"
+                }
+            ],
+            "layout": "",
+            "template": "verso-river",
+            "shouldHideVideoDek": false
+        }
+    ],
+    "dangerousBundleDek": "",
+    "hierarchy": {},
+    "isDestinationBundle": false,
+    "isPackageBundle": false,
+    "sponsoredContentHeaderProps": null,
+    "isSponsored": false,
+    "isSponsoredAffiliateLinksEnabled": false,
+    "shouldEnableBodyReadMore": false
+},
+"newsletter": {
+    "buttonLabel": "Sign up",
+    "dangerousDek": "Our most popular newsletter for destination inspiration, travel tips, trip itineraries, and everything else you need to be an expert traveler in this beautiful world",
+    "dangerousDisclaimer": "<p>Will be used in accordance with our <a href=\"https://www.condenast.com/privacy-policy\">Privacy Policy</a>.</p>",
+    "dangerousHed": "The Daily",
+    "dangerousSuccessDek": "You have successfully subscribed to our newsletter",
+    "dangerousSuccessHed": "Thank You!",
+    "errors": [],
+    "formName": "newsletter",
+    "newsletterId": 5107,
+    "placeholder": "",
+    "textFieldLabel": "Enter your e-mail address",
+    "textFieldName": "email"
+},
+"channelTree": null,
+"channelItems": [],
+"featureFlags": {
+    "enableAccounts": false,
+    "enableAnalytics": true,
+    "enableDropcap": false,
+    "enableEntitlementProxy": false,
+    "enableEntitlementValidation": false,
+    "enableEntitlementGrantLogic": false,
+    "enableFourSquareIntegration": true,
+    "enableGoogleAmp": true,
+    "enablePayment": false,
+    "enableRecipeRatings": false,
+    "enableVideoHomePage": false,
+    "hideRelatedOnBundles": false,
+    "hideRelatedOnChannels": true,
+    "hideRelatedOnSubchannels": true,
+    "incontentAdsDisabledOnGalleryAwardList": true,
+    "midcontentAdsDisabledOnGalleryAwardList": true,
+    "recentWorkTeaser": "rubric-only",
+    "bundleTeaser": "location-or-channel-or-rubric",
+    "contentTeaser": "location-or-channel-or-rubric",
+    "tagTeaser": "rubric-only",
+    "preferCollectionGrid": false,
+    "enableSponsoredContentInRelated": false,
+    "personalizeRecircList": true,
+    "personalizeRecircMostPopular": true,
+    "videoPersistable": false,
+    "google": {
+        "swgEnabled": false,
+        "signInEnabled": false
+    },
+    "featureOnboarding": {},
+    "hideTagsWithUnderscores": true
+}
+}
