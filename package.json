@@ -1,10 +1,10 @@
 {
-  "name": "api",
+  "name": "condenast",
   "version": "1.0.0",
   "description": "mock api",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules\\.bin\\cypress run --headless --browser chrome --spec \"cypress/integration/condenast.spec.js\""
+    "test": "node_modules\\.bin\\cypress run --headless --browser chrome --spec \"cypress/integration/condenast.js\""
   },
   "author": "santhosh",
   "license": "ISC",

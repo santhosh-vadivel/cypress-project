@@ -4464,6 +4464,110 @@
               "author": {
                 "items": [
                   {
+                    "name": "Megan Spurrell and Shannon McMahon"
+                  }
+                ]
+              }
+            },
+            "contentType": "article",
+            "copilotID": "6086d61c96c768ac690a5b4a",
+            "dangerousHed": "E.U. Will Allow Vaccinated Americans to Return This Summer",
+            "dangerousDek": "The E.U. Commission has agreed to allow vaccinated Americans to visit Europe this summer following one full year of travel restrictions.",
+            "image": {
+              "altText": "Amalfi cityscape on coast line of mediterranean sea, Italy: Travel to Europe",
+              "segmentedSources": {
+                "sm": [
+                  {
+                    "aspectRatio": "1:1",
+                    "width": 160,
+                    "url": "https://media.cntraveler.com/photos/6086d7a4469bfa79798ab9d1/1:1/w_160,c_limit/EU%20Will%20Open%20to%20Vaxxed%20Americans%20This%20Summer_GettyImages-961393138.jpg"
+                  }
+                ],
+                "lg": [
+                  {
+                    "aspectRatio": "1:1",
+                    "width": 320,
+                    "url": "https://media.cntraveler.com/photos/6086d7a4469bfa79798ab9d1/1:1/w_320,c_limit/EU%20Will%20Open%20to%20Vaxxed%20Americans%20This%20Summer_GettyImages-961393138.jpg"
+                  }
+                ]
+              },
+              "sources": {
+                "sm": {
+                  "aspectRatio": "1:1",
+                  "width": 160,
+                  "url": "https://media.cntraveler.com/photos/6086d7a4469bfa79798ab9d1/1:1/w_160,c_limit/EU%20Will%20Open%20to%20Vaxxed%20Americans%20This%20Summer_GettyImages-961393138.jpg"
+                },
+                "xxl": {
+                  "aspectRatio": "1:1",
+                  "width": 320,
+                  "url": "https://media.cntraveler.com/photos/6086d7a4469bfa79798ab9d1/1:1/w_320,c_limit/EU%20Will%20Open%20to%20Vaxxed%20Americans%20This%20Summer_GettyImages-961393138.jpg"
+                }
+              }
+            },
+            "rubric": {
+              "name": "The Intel"
+            },
+            "signage": null,
+            "url": "https://www.cntraveler.com/story/vaccinated-americans-may-be-able-to-travel-to-europe-this-summer#intcid=_conde-nast-traveler-verso-hp-trending_e3dd5411-cfdf-4b0e-8131-8becf2cf4e84_popular4-1"
+          },
+          {
+            "brand": "conde-nast-traveler",
+            "contributors": {
+              "author": {
+                "items": [
+                  {
+                    "name": "Hannah Lee Leidy"
+                  }
+                ]
+              }
+            },
+            "contentType": "article",
+            "copilotID": "6082ec561ed52656b7ed3f5e",
+            "dangerousHed": "Where to Eat, Stay, and Play in North Carolina&#39;s Outer Banks",
+            "dangerousDek": "Stand-out seafood, cozy rentals, and hidden beaches on North Carolina&#39;s string of barrier islands.",
+            "image": {
+              "altText": "Outer Banks, North Carolina",
+              "segmentedSources": {
+                "sm": [
+                  {
+                    "aspectRatio": "1:1",
+                    "width": 160,
+                    "url": "https://media.cntraveler.com/photos/6082eccb240c860580534d87/1:1/w_160,c_limit/1199338966"
+                  }
+                ],
+                "lg": [
+                  {
+                    "aspectRatio": "1:1",
+                    "width": 320,
+                    "url": "https://media.cntraveler.com/photos/6082eccb240c860580534d87/1:1/w_320,c_limit/1199338966"
+                  }
+                ]
+              },
+              "sources": {
+                "sm": {
+                  "aspectRatio": "1:1",
+                  "width": 160,
+                  "url": "https://media.cntraveler.com/photos/6082eccb240c860580534d87/1:1/w_160,c_limit/1199338966"
+                },
+                "xxl": {
+                  "aspectRatio": "1:1",
+                  "width": 320,
+                  "url": "https://media.cntraveler.com/photos/6082eccb240c860580534d87/1:1/w_320,c_limit/1199338966"
+                }
+              }
+            },
+            "rubric": {
+              "name": "The Places"
+            },
+            "signage": null,
+            "url": "https://www.cntraveler.com/story/where-to-eat-play-and-stay-in-the-outer-banks-north-carolina#intcid=_conde-nast-traveler-verso-hp-trending_e3dd5411-cfdf-4b0e-8131-8becf2cf4e84_popular4-1"
+          },
+          {
+            "brand": "conde-nast-traveler",
+            "contributors": {
+              "author": {
+                "items": [
+                  {
                     "name": "Ashlea Halpern"
                   }
                 ]
@@ -4508,111 +4612,7 @@
               "name": "The Intel"
             },
             "signage": null,
-            "url": "https://www.cntraveler.com/story/modest-swimwear-beachwear#intcid=_conde-nast-traveler-verso-hp-trending_58144526-ddb6-483a-b138-b455453f22fb_popular4-1"
-          },
-          {
-            "brand": "conde-nast-traveler",
-            "contributors": {
-              "author": {
-                "items": [
-                  {
-                    "name": "Shannon McMahon"
-                  }
-                ]
-              }
-            },
-            "contentType": "article",
-            "copilotID": "609d5afce4e19ba2620a1d41",
-            "dangerousHed": "Heading to Mexico? These Are the COVID Restrictions in Place",
-            "dangerousDek": "From Tulum to Oaxaca, here&#39;s what to expect if you&#39;re visiting Mexico, from pre-departure requirements to what&#39;s open on the ground.",
-            "image": {
-              "altText": "Mexico Restrictions Guide, Tulum Mayan Ruins",
-              "segmentedSources": {
-                "sm": [
-                  {
-                    "aspectRatio": "1:1",
-                    "width": 160,
-                    "url": "https://media.cntraveler.com/photos/6086fc8b11601c3fd89adc74/1:1/w_160,c_limit/Mexico%20Restrictions%20Guide_GettyImages-499014209.jpg"
-                  }
-                ],
-                "lg": [
-                  {
-                    "aspectRatio": "1:1",
-                    "width": 320,
-                    "url": "https://media.cntraveler.com/photos/6086fc8b11601c3fd89adc74/1:1/w_320,c_limit/Mexico%20Restrictions%20Guide_GettyImages-499014209.jpg"
-                  }
-                ]
-              },
-              "sources": {
-                "sm": {
-                  "aspectRatio": "1:1",
-                  "width": 160,
-                  "url": "https://media.cntraveler.com/photos/6086fc8b11601c3fd89adc74/1:1/w_160,c_limit/Mexico%20Restrictions%20Guide_GettyImages-499014209.jpg"
-                },
-                "xxl": {
-                  "aspectRatio": "1:1",
-                  "width": 320,
-                  "url": "https://media.cntraveler.com/photos/6086fc8b11601c3fd89adc74/1:1/w_320,c_limit/Mexico%20Restrictions%20Guide_GettyImages-499014209.jpg"
-                }
-              }
-            },
-            "rubric": {
-              "name": "The Intel"
-            },
-            "signage": null,
-            "url": "https://www.cntraveler.com/story/guide-to-mexicos-travel-restrictions#intcid=_conde-nast-traveler-verso-hp-trending_58144526-ddb6-483a-b138-b455453f22fb_popular4-1"
-          },
-          {
-            "brand": "conde-nast-traveler",
-            "contributors": {
-              "author": {
-                "items": [
-                  {
-                    "name": "CNT Editors"
-                  }
-                ]
-              }
-            },
-            "contentType": "article",
-            "copilotID": "5b4cbb124b1b564ac0e61e70",
-            "dangerousHed": "The Best Vacations for Kids at Every Age: A Trip Guide for Parents",
-            "dangerousDek": "You have 18 summers with your kids before they&#39;re too cool to travel with you. Here&#39;s how to make every year count.",
-            "image": {
-              "altText": "Family Travel 18 Summers",
-              "segmentedSources": {
-                "sm": [
-                  {
-                    "aspectRatio": "1:1",
-                    "width": 160,
-                    "url": "https://media.cntraveler.com/photos/608717d41ed52656b7ed3fe0/1:1/w_160,c_limit/Family%20Travel%2018%20Summers_lede_GettyImages-510225914.jpg"
-                  }
-                ],
-                "lg": [
-                  {
-                    "aspectRatio": "1:1",
-                    "width": 320,
-                    "url": "https://media.cntraveler.com/photos/608717d41ed52656b7ed3fe0/1:1/w_320,c_limit/Family%20Travel%2018%20Summers_lede_GettyImages-510225914.jpg"
-                  }
-                ]
-              },
-              "sources": {
-                "sm": {
-                  "aspectRatio": "1:1",
-                  "width": 160,
-                  "url": "https://media.cntraveler.com/photos/608717d41ed52656b7ed3fe0/1:1/w_160,c_limit/Family%20Travel%2018%20Summers_lede_GettyImages-510225914.jpg"
-                },
-                "xxl": {
-                  "aspectRatio": "1:1",
-                  "width": 320,
-                  "url": "https://media.cntraveler.com/photos/608717d41ed52656b7ed3fe0/1:1/w_320,c_limit/Family%20Travel%2018%20Summers_lede_GettyImages-510225914.jpg"
-                }
-              }
-            },
-            "rubric": {
-              "name": "Gear & Guides"
-            },
-            "signage": null,
-            "url": "https://www.cntraveler.com/story/18-summers-the-ultimate-guide-to-not-wasting-a-single-vacation-with-your-kids#intcid=_conde-nast-traveler-verso-hp-trending_58144526-ddb6-483a-b138-b455453f22fb_popular4-1"
+            "url": "https://www.cntraveler.com/story/modest-swimwear-beachwear#intcid=_conde-nast-traveler-verso-hp-trending_e3dd5411-cfdf-4b0e-8131-8becf2cf4e84_popular4-1"
           }
         ]
       },
@@ -6006,6 +6006,176 @@
               "author": {
                 "items": [
                   {
+                    "dangerousBio": "<a href=\"/undefined\">Caitlin Morton</a> has been working at Condé Nast Traveler since July 2014. She enjoys baked goods, Ireland, orange nail polish, and words. One time she held the door open for Ian McKellen, which is as close to fame as she will ever get.",
+                    "dangerousTitle": null,
+                    "name": "Caitlin Morton",
+                    "socialMedia": [
+                      {
+                        "label": "Follow Caitlin Morton on Twitter",
+                        "handle": "https://twitter.com/CaitlinMorton23",
+                        "network": "twitter"
+                      },
+                      {
+                        "label": "Follow Caitlin Morton on Instagram",
+                        "handle": "http://instagram.com/caitlinmorton23",
+                        "network": "instagram"
+                      },
+                      {
+                        "label": "Follow Caitlin Morton on Pinterest",
+                        "handle": "http://www.pinterest.com/CaitlinMorton23/",
+                        "network": "pinterest"
+                      }
+                    ],
+                    "url": ""
+                  }
+                ]
+              }
+            },
+            "contentType": "gallery",
+            "copilotID": "609ec09613475a76aa942533",
+            "dangerousHed": "Best Places to Travel in July",
+            "dangerousDek": "Summer vacation, here we come.",
+            "date": "May 20, 2021",
+            "image": {
+              "altText": "Glacier National Park",
+              "caption": "",
+              "contentType": "photo",
+              "credit": "Getty",
+              "id": "609ec27d0573a81e1406aa43",
+              "sources": {
+                "sm": {
+                  "aspectRatio": "1:1",
+                  "width": 768,
+                  "url": "https://media.cntraveler.com/photos/609ec27d0573a81e1406aa43/1:1/w_768,c_limit/Glacier-National-Park-GettyImages-902010134.jpg"
+                },
+                "lg": {
+                  "aspectRatio": "1:1",
+                  "width": 1280,
+                  "url": "https://media.cntraveler.com/photos/609ec27d0573a81e1406aa43/1:1/w_1280,c_limit/Glacier-National-Park-GettyImages-902010134.jpg"
+                },
+                "xxl": {
+                  "aspectRatio": "1:1",
+                  "width": 1600,
+                  "url": "https://media.cntraveler.com/photos/609ec27d0573a81e1406aa43/1:1/w_1600,c_limit/Glacier-National-Park-GettyImages-902010134.jpg"
+                }
+              },
+              "masterAspectRatio": "5000:3333",
+              "segmentedSources": {
+                "sm": [
+                  {
+                    "aspectRatio": "1:1",
+                    "width": 768,
+                    "url": "https://media.cntraveler.com/photos/609ec27d0573a81e1406aa43/1:1/w_768,c_limit/Glacier-National-Park-GettyImages-902010134.jpg"
+                  }
+                ],
+                "lg": [
+                  {
+                    "aspectRatio": "1:1",
+                    "width": 1600,
+                    "url": "https://media.cntraveler.com/photos/609ec27d0573a81e1406aa43/1:1/w_1600,c_limit/Glacier-National-Park-GettyImages-902010134.jpg"
+                  }
+                ]
+              }
+            },
+            "isSponsored": false,
+            "itemsCount": {
+              "count": 9,
+              "itemType": "slide"
+            },
+            "rubric": {
+              "name": "The Latest",
+              "url": "/the-intel/the-latest"
+            },
+            "signage": null,
+            "source": {
+              "hed": "Best Places to Travel in July",
+              "dek": "Summer vacation, here we come."
+            },
+            "url": "/gallery/best-places-to-travel-july"
+          },
+          {
+            "contributors": {
+              "author": {
+                "items": [
+                  {
+                    "dangerousBio": "Tim Latterner is a writer and editor living in New York. His work has been featured in Architectural Digest, Vice, GQ, London&#39;s Evening Standard, and more. He&#39;s also worked as an editor at Architectural Digest.",
+                    "dangerousTitle": null,
+                    "name": "Timothy Latterner",
+                    "socialMedia": [
+                      {
+                        "label": "Follow Timothy Latterner on Instagram",
+                        "handle": "https://www.instagram.com/timlatterner/",
+                        "network": "instagram"
+                      }
+                    ],
+                    "url": ""
+                  }
+                ]
+              }
+            },
+            "contentType": "article",
+            "copilotID": "60a52fa34cdaadef55833cd8",
+            "dangerousHed": "Rothy&#39;s Finally Made Shoes for Men, Starting With a Sneaker and Loafer",
+            "dangerousDek": "The eco-friendly brand’s first collection of men&#39;s shoes are available now&#8212;here&#39;s what we thought of Rothy&#39;s new men&#39;s sneaker.",
+            "date": "May 20, 2021",
+            "image": {
+              "altText": "Rothy's Men's Shoes",
+              "caption": "",
+              "contentType": "photo",
+              "credit": "Courtesy Rothy&#39;s ",
+              "id": "609c33d46be30e53bf3087eb",
+              "sources": {
+                "sm": {
+                  "aspectRatio": "1:1",
+                  "width": 768,
+                  "url": "https://media.cntraveler.com/photos/609c33d46be30e53bf3087eb/1:1/w_768,c_limit/Rothy's%2520Men's%2520Shoes_03%2520Men_s%2520by%2520Rothy_s%2520RS01%2520Sneaker%25200083.jpg"
+                },
+                "lg": {
+                  "aspectRatio": "1:1",
+                  "width": 1280,
+                  "url": "https://media.cntraveler.com/photos/609c33d46be30e53bf3087eb/1:1/w_1280,c_limit/Rothy's%2520Men's%2520Shoes_03%2520Men_s%2520by%2520Rothy_s%2520RS01%2520Sneaker%25200083.jpg"
+                },
+                "xxl": {
+                  "aspectRatio": "1:1",
+                  "width": 1600,
+                  "url": "https://media.cntraveler.com/photos/609c33d46be30e53bf3087eb/1:1/w_1600,c_limit/Rothy's%2520Men's%2520Shoes_03%2520Men_s%2520by%2520Rothy_s%2520RS01%2520Sneaker%25200083.jpg"
+                }
+              },
+              "masterAspectRatio": "3000:2001",
+              "segmentedSources": {
+                "sm": [
+                  {
+                    "aspectRatio": "1:1",
+                    "width": 768,
+                    "url": "https://media.cntraveler.com/photos/609c33d46be30e53bf3087eb/1:1/w_768,c_limit/Rothy's%2520Men's%2520Shoes_03%2520Men_s%2520by%2520Rothy_s%2520RS01%2520Sneaker%25200083.jpg"
+                  }
+                ],
+                "lg": [
+                  {
+                    "aspectRatio": "1:1",
+                    "width": 1600,
+                    "url": "https://media.cntraveler.com/photos/609c33d46be30e53bf3087eb/1:1/w_1600,c_limit/Rothy's%2520Men's%2520Shoes_03%2520Men_s%2520by%2520Rothy_s%2520RS01%2520Sneaker%25200083.jpg"
+                  }
+                ]
+              }
+            },
+            "isSponsored": false,
+            "rubric": {
+              "name": "Gear & Guides",
+              "url": "/the-intel/gear-and-guides"
+            },
+            "signage": null,
+            "source": {
+              "hed": "Rothy's Finally Made Shoes for Men, Starting With a Sneaker and Loafer",
+              "dek": "The eco-friendly brand’s first collection of men's shoes are available now—here's what we thought of Rothy's new men's sneaker."
+            },
+            "url": "/story/rothys-first-mens-shoe-collection"
+          },
+          {
+            "contributors": {
+              "author": {
+                "items": [
+                  {
                     "dangerousBio": null,
                     "dangerousTitle": "Contributing Writer",
                     "name": "Sandra Ramani",
@@ -6139,8 +6309,8 @@
             },
             "isSponsored": false,
             "rubric": {
-              "name": "Air Travel",
-              "url": "/get-there/air-travel"
+              "name": "Get There",
+              "url": "/the-intel/get-there"
             },
             "signage": null,
             "source": {
@@ -7083,150 +7253,6 @@
               "dek": "As of mid-May, these states still have COVID-19 travel restrictions in place.&nbsp;"
             },
             "url": "/story/state-travel-restrictions-during-covid-19"
-          },
-          {
-            "contributors": {
-              "author": {
-                "items": [
-                  {
-                    "dangerousBio": null,
-                    "dangerousTitle": null,
-                    "name": "Sarah Kuta",
-                    "socialMedia": [],
-                    "url": ""
-                  }
-                ]
-              }
-            },
-            "contentType": "article",
-            "copilotID": "609ebb75a8debd0f9d7e3d74",
-            "dangerousHed": "9 Best Hikes in Colorado, From Alpine Meadows to Other-Worldly Rock Formations",
-            "dangerousDek": "If it isn&#39;t illegal to visit Colorado and not go for a hike, it should be.",
-            "date": "May 18, 2021",
-            "image": {
-              "altText": "Maroon Bells Colorado",
-              "caption": "",
-              "contentType": "photo",
-              "credit": "Ron and Patty Thomas/Getty",
-              "id": "609eeffa1da8d80b082e4408",
-              "sources": {
-                "sm": {
-                  "aspectRatio": "1:1",
-                  "width": 768,
-                  "url": "https://media.cntraveler.com/photos/609eeffa1da8d80b082e4408/1:1/w_768,c_limit/108350639"
-                },
-                "lg": {
-                  "aspectRatio": "1:1",
-                  "width": 1280,
-                  "url": "https://media.cntraveler.com/photos/609eeffa1da8d80b082e4408/1:1/w_1280,c_limit/108350639"
-                },
-                "xxl": {
-                  "aspectRatio": "1:1",
-                  "width": 1600,
-                  "url": "https://media.cntraveler.com/photos/609eeffa1da8d80b082e4408/1:1/w_1600,c_limit/108350639"
-                }
-              },
-              "masterAspectRatio": "5600:4219",
-              "segmentedSources": {
-                "sm": [
-                  {
-                    "aspectRatio": "1:1",
-                    "width": 768,
-                    "url": "https://media.cntraveler.com/photos/609eeffa1da8d80b082e4408/1:1/w_768,c_limit/108350639"
-                  }
-                ],
-                "lg": [
-                  {
-                    "aspectRatio": "1:1",
-                    "width": 1600,
-                    "url": "https://media.cntraveler.com/photos/609eeffa1da8d80b082e4408/1:1/w_1600,c_limit/108350639"
-                  }
-                ]
-              }
-            },
-            "isSponsored": false,
-            "rubric": {
-              "name": "The Places",
-              "url": "/the-places"
-            },
-            "signage": null,
-            "source": {
-              "hed": "9 Best Hikes in Colorado, From Alpine Meadows to Other-Worldly Rock Formations",
-              "dek": "If it isn't illegal to visit Colorado and not go for a hike, it should be."
-            },
-            "url": "/story/best-hikes-in-colorado"
-          },
-          {
-            "contributors": {
-              "author": {
-                "items": [
-                  {
-                    "dangerousBio": "Based in Cape Town, Jane has been freelancing as a food and travel writer since 2000. Her assignments for titles, including <em>Condé Nast Traveler, Robb Report, Travel + Leisure,</em> and <em>Afar</em> have taken her to iconic destinations throughout Southern and East Africa and the Indian Ocean islands.",
-                    "dangerousTitle": "Contributing Writer",
-                    "name": "Jane Broughton",
-                    "socialMedia": [],
-                    "url": ""
-                  }
-                ]
-              }
-            },
-            "contentType": "article",
-            "copilotID": "604a691327e2fd8ada48aa67",
-            "dangerousHed": "Botswana&#39;s Xigera Lodge Has a Light Footprint and a Major Impact",
-            "dangerousDek": "In Botswana, a country renowned for its considered approach to wildlife protection, this reinvented camp is taking things to the next level, with a minimal carbon footprint and a spotlight on regional craft.",
-            "date": "May 18, 2021",
-            "image": {
-              "altText": "Cond Nast Traveler  Travel Reviews News Guides  Tips",
-              "caption": "",
-              "contentType": "photo",
-              "credit": "Courtesy Xigera Safari Lodge",
-              "id": "6054ce0b4e07703addae38c6",
-              "sources": {
-                "sm": {
-                  "aspectRatio": "1:1",
-                  "width": 768,
-                  "url": "https://media.cntraveler.com/photos/6054ce0b4e07703addae38c6/1:1/w_768,c_limit/CNTApril2021-WOMXigera-_DSC6678.jpg"
-                },
-                "lg": {
-                  "aspectRatio": "1:1",
-                  "width": 1280,
-                  "url": "https://media.cntraveler.com/photos/6054ce0b4e07703addae38c6/1:1/w_1280,c_limit/CNTApril2021-WOMXigera-_DSC6678.jpg"
-                },
-                "xxl": {
-                  "aspectRatio": "1:1",
-                  "width": 1600,
-                  "url": "https://media.cntraveler.com/photos/6054ce0b4e07703addae38c6/1:1/w_1600,c_limit/CNTApril2021-WOMXigera-_DSC6678.jpg"
-                }
-              },
-              "masterAspectRatio": "5970:3985",
-              "segmentedSources": {
-                "sm": [
-                  {
-                    "aspectRatio": "1:1",
-                    "width": 768,
-                    "url": "https://media.cntraveler.com/photos/6054ce0b4e07703addae38c6/1:1/w_768,c_limit/CNTApril2021-WOMXigera-_DSC6678.jpg"
-                  }
-                ],
-                "lg": [
-                  {
-                    "aspectRatio": "1:1",
-                    "width": 1600,
-                    "url": "https://media.cntraveler.com/photos/6054ce0b4e07703addae38c6/1:1/w_1600,c_limit/CNTApril2021-WOMXigera-_DSC6678.jpg"
-                  }
-                ]
-              }
-            },
-            "isSponsored": false,
-            "rubric": {
-              "name": "Hotels and Resorts",
-              "url": "/stay-here/hotels-and-resorts"
-            },
-            "signage": null,
-            "source": {
-              "hed": "Botswana's Xigera Lodge Has a Light Footprint and a Major Impact",
-              "dek": "In Botswana, a country renowned for its considered approach to wildlife protection, this reinvented camp is taking things to the next level, with a minimal carbon footprint and a spotlight on regional craft."
-            },
-            "url": "/story/botswanas-xigera-lodge-has-a-light-footprint-and-a-major-impact"
           }
         ],
         "layout": "",

@@ -1,12 +1,10 @@
 /// <reference types="cypress" />
-//import * as Homepage from '../support/pageobjects/homepage'
-
+//import * as Homepage from '../support/pageobjects/homepage' //Might use later
 var i,j,homearticle
-describe('Sample Project to verify the cntraveler article',()=>{
 
+describe('Sample Project to verify the cntraveler article - GRID 1',()=>{
+    // hit the cntraveler API to get the response dynamically and store it in fixture for assertions
     before(()=>{
-        // hit the API to get the response dynamically and store it in fixture for assertions
-        // visit cntraveler website
         cy.request({
             url: Cypress.env('homePageAPI'),
             method: 'GET',
@@ -20,15 +18,14 @@ describe('Sample Project to verify the cntraveler article',()=>{
         cy.fixture('article').then((homearticlejson)=>{
             homearticle = homearticlejson
         })//fixture
+    })//before
 
+    // visit cntraveler website before each test case
+    beforeEach(()=>{
         cy.visit(Cypress.env('applicationURL'))
     })//beforeEach
 
-    //Trying to merge all in one for loop
-    //Cypress cross-origin error, as we navigate from "/?us_site=y" while navigating inside an article
-    //without '/?us_site=y' in the URL, the following code should work fine
-
-    it('In Conde Nast homepage verify the article', ()=>{
+    it('In Conde Nast homepage verify the article - GRID 1', ()=>{
         /*
             Iterate through the first GRID and verify if all the 5 sections have img, tag, heading, description and contributor name
             Verify the data from the UI against the dynamically stored JSON response in article.json file
@@ -45,20 +42,36 @@ describe('Sample Project to verify the cntraveler article',()=>{
                     .invoke('text').should('include',homearticle.bundle.containers[1].items[j].source.dek)
                 cy.get(`div:nth-child(2) > div > div > div:nth-child(${i}) div.summary-item__content span span[data-testid="BylineName"]`).scrollIntoView()
                     .should('have.text',homearticle.bundle.containers[1].items[j].contributors.author.items[0].name)
+            }//j for
+        }// i for
+    })//it
 
+    it('Visit all 5 articles in GRID 1 and verify the mandatory fields through iterations',()=>{
+        /*
+            Visit all 5 articles in the first GRID
+            Iterate through them verify if all the 5 sections have img, tag, heading, description and contributor name
+            Verify the data from the UI against the dynamically stored JSON response in article.json file
+        */
+        for(i = 1; i < 6; i++){
+            for(j = i-1; j < i; j++){
+                /*
+                    NOTE: for i=2, i.e after navigaing to the second article in the homepage, the CSS is not alligned with the other articles's CSS
+                */
                 // click on each article and verify the mandatory fields in each article
                 cy.get(`div:nth-child(2) > div > div > div:nth-child(${i}) div.summary-item__content > a > h2`).scrollIntoView().click()
 
                 // Verify if the articles have the respective mandatory values in it
                 cy.get('article > div.lede-background > header figure picture img').should('have.attr','alt',homearticle.bundle.containers[1].items[j].image.altText)
                 cy.get('h1[data-testid="ContentHeaderHed"]').should('have.text',homearticle.bundle.containers[1].items[j].dangerousHed)
-                //Issue in the CondeNsat text. Data Mismatch in Homepage and article page
-                //cy.get('div.lede-background div.content-header__row.content-header__dek').invoke('text').should('contain',homearticle.bundle.containers[1].items[0].source.dek)
+
+                //NOTE: Issue in 'CondeNsat' text inside the first item[0] article. Data Mismatch in Homepage and article page
+                //cy.get('div.lede-background div.content-header__row.content-header__dek').invoke('text').should('contain',homearticle.bundle.containers[1].items[j].source.dek)
+               
                 cy.get('div[data-testid="BylinesWrapper"] a.button').should('have.text',homearticle.bundle.containers[1].items[j].contributors.author.items[0].name)
                 cy.get('time[data-testid="ContentHeaderPublishDate"]').should('have.text',homearticle.bundle.containers[1].items[j].date)
                 cy.get('div.grid--item.body.body__container.article__body.grid-layout__content').should('not.be.empty')
                 cy.go('back')
             }//j for
-        }// i for
+        }//i for
     })//it
 })//describe
