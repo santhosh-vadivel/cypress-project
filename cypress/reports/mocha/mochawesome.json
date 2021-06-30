@@ -1,0 +1,145 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-06-30T15:29:25.409Z",
+    "end": "2021-06-30T15:29:46.484Z",
+    "duration": 21075,
+    "testsRegistered": 3,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "a461011f-a99e-481c-8978-e93ecc8a9094",
+      "title": "",
+      "fullFile": "cypress/integration/testfile.js",
+      "file": "cypress/integration/testfile.js",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "8e63e2f4-1659-4dca-a4b0-659430166ca5",
+          "title": "Sample Project to verify cart in Amazon",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "search and select a product in amazon",
+              "fullTitle": "Sample Project to verify cart in Amazon search and select a product in amazon",
+              "timedOut": null,
+              "duration": 15672,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.get(Amazon.HomePage.SearchInputField, {\n  timeout: 10000\n}).type(inputObj.BookName);\ncy.get(Amazon.HomePage.SearchIcon, {\n  timeout: 5000\n}).click();\ncy.get(Amazon.HomePage.ItemList).then($itemlist => {\n  itemlistlength = $itemlist.length; //verify the list should not be empty\n  expect(itemlistlength).to.be.greaterThan(0);\n}); //click on the first element\ncy.get(Amazon.HomePage.ItemList).first().find('a').first().invoke('removeAttr', 'target').click();",
+              "err": {},
+              "uuid": "0e77003c-b640-4c71-bb09-80d01bfebb39",
+              "parentUUID": "8e63e2f4-1659-4dca-a4b0-659430166ca5",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Verify the product details in cart",
+              "fullTitle": "Sample Project to verify cart in Amazon Verify the product details in cart",
+              "timedOut": null,
+              "duration": 641,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.get(Amazon.ProductPage.Title, {\n  timeout: 10000\n}).should('contain.text', inputObj.BookName);\ncommands.compareText(Amazon.ProductPage.Availability, inputObj.Availability);\ncy.get(Amazon.ProductPage.Quantity).select('1').should('have.value', inputObj.Quantity);\ncy.get(Amazon.ProductPage.Price).should('contain', inputObj.Price);",
+              "err": {},
+              "uuid": "7c1da422-a78c-4c55-af55-f885e467a793",
+              "parentUUID": "8e63e2f4-1659-4dca-a4b0-659430166ca5",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Add the product to Cart",
+              "fullTitle": "Sample Project to verify cart in Amazon Add the product to Cart",
+              "timedOut": null,
+              "duration": 2173,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.get(Amazon.ProductPage.AddToCart, {\n  timeout: 10000\n}).click();\ncommands.compareText(Amazon.CartInfo.SuccessMessage, inputObj.SuccessMessage);\ncy.get(Amazon.CartInfo.ProceedToBuy, {\n  timeout: 10000\n}).should('contain', '1 item'); //cy.get(Amazon.ProductPage.Continue,{timeout:10000}).click()",
+              "err": {},
+              "uuid": "499a8f04-0249-4879-87dd-93d21edc6e32",
+              "parentUUID": "8e63e2f4-1659-4dca-a4b0-659430166ca5",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "0e77003c-b640-4c71-bb09-80d01bfebb39",
+            "7c1da422-a78c-4c55-af55-f885e467a793",
+            "499a8f04-0249-4879-87dd-93d21edc6e32"
+          ],
+          "failures": [],
+          "pending": [],
+          "skipped": [],
+          "duration": 18486,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": true,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "6.2.2"
+    },
+    "marge": {
+      "options": {
+        "id": "default",
+        "reportDir": "cypress/reports/mocha",
+        "quite": true,
+        "overwrite": false,
+        "html": true,
+        "json": true
+      },
+      "version": "5.2.0"
+    }
+  }
+}

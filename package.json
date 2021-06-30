@@ -1,15 +1,25 @@
 {
   "name": "condenast",
   "version": "1.0.0",
-  "description": "mock api",
+  "description": "Initial verification for CNTraveler.com",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules\\.bin\\cypress run --headless --browser chrome --spec \"cypress/integration/condenast.js\""
+    "test": "node_modules\\.bin\\cypress run --headless --browser chrome --spec \"cypress/integration/testfile.js\"",
+    "clean:reports": "rmdir /S /Q cypress\\reports && mkdir cypress\\reports && mkdir cypress\\reports\\mochareports",
+    "pretest": "npm run clean:reports",
+    "combine-reports": "mochawesome-merge cypress/reports/mocha/*.json > cypress/reports/mochareports/report.json",
+    "generate-report": "marge cypress/reports/mochareports/report.json -f report -o cypress/reports/mochareports",
+    "posttest": "npm run combine-reports && npm run generate-report"
   },
   "author": "santhosh",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^7.2.0",
+    "cypress-multi-reporters": "^1.5.0",
+    "mocha": "^9.0.1",
+    "mochawesome": "^6.2.2",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.2.0",
     "typescript": "^4.2.4"
   }
 }

@@ -23,3 +23,21 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+//COMPARE TEXTS
+export function compareText(expected, actual) {
+    cy.get(expected, { timeout: 50000 })
+      .invoke('text')
+      .then(name => {
+        expect(actual.trim()).to.eq(name.trim());
+    });
+}
+
+// COMPARE VALUES
+export function compareValues(expected, actual) {
+    cy.get(expected, { timeout: 20000 })
+      .invoke('val')
+      .then(name => {
+        expect(actual).to.eq(name);
+    });
+}
